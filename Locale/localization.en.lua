@@ -251,55 +251,55 @@ Inst1Quest7_Folgequest = "有，巴基尔·斯瑞德"
 -- No Rewards for this quest
 
 --Quest 8 Alliance
-Inst1Quest8 = "(Turtle-WOW)8. 葛瑞森船长的复仇" -- 40396
+Inst1Quest8 = "(TW)8. 葛瑞森船长的复仇" -- 40396
 Inst1Quest8_Level = "22"
 Inst1Quest8_Attain = "15"
 Inst1Quest8_Aim = "杀掉曲奇，带回葛瑞森的吊坠"
 Inst1Quest8_Location = "葛瑞森船长 (西部荒野 - 灯塔; "..YELLOW.."30,86"..WHITE..")"
 Inst1Quest8_Note = "你在西部荒野的西北部小岛上开始这条任务线;地面上的书"..YELLOW.."26.1,16.5"..WHITE..")。\n"
-Inst1Quest8_Prequest = "Food for Sailing Thoughts?" -- 40395
-Inst1Quest8_Folgequest = "No"
+Inst1Quest8_Prequest = "食物与航海思考？" -- 40395
+Inst1Quest8_Folgequest = "无"
 --
-Inst1Quest8name1 = "Grayson’s Hat"
+Inst1Quest8name1 = "格雷森的帽子"
 
 --Quest 9 Alliance
-Inst1Quest9 = "(Turtle-WOW)9. 收获傀儡之谜" -- 40478
+Inst1Quest9 = "(TW)9. 收获傀儡之谜" -- 40478
 Inst1Quest9_Level = "19"
 Inst1Quest9_Attain = "15"
 Inst1Quest9_Aim = "进入死亡矿并杀死基尔尼格，完成后，向西部荒野的加特赛德园地的Maltimor Gartside回复。"
 Inst1Quest9_Location = "Maltimor Gartside (西部荒野 - 金海岸矿洞的北边; "..YELLOW.."31.3,37.6"..WHITE..")"
 Inst1Quest9_Note = "这条任务线开始于Christopher Hewen (西部荒野 - 哨兵岭旅店; "..YELLOW.."52.3,52.8"..WHITE..").\n任务线有16个任务。最终奖励蓝色物品：1)副手物品 智力/暗抗/法术伤害及治疗效果, 2) 锁甲肩膀 力量/耐力, 3) 皮甲手套 力量/敏捷/耐力\n基尔尼格在"..YELLOW.."[4]"..WHITE.."。"
-Inst1Quest9_Prequest = "The Harvest Golem Mystery VIII" -- 40477
-Inst1Quest9_Folgequest = "The Harvest Golem Mystery X" --40479
+Inst1Quest9_Prequest = "收获魔像之谜 VIII" -- 40477
+Inst1Quest9_Folgequest = "收获魔像之谜 X" --40479
 --
-Inst1Quest9name1 = "Tinkering Belt "
-Inst1Quest9name2 = "Safety Wraps"
-Inst1Quest9name3 = "Harvest Golem Arm"
+Inst1Quest9name1 = "工匠腰带"
+Inst1Quest9name2 = "安全绑带"
+Inst1Quest9name3 = "收获魔像的手臂"
 
 --Quest 1 Horde
-Inst1Quest1_HORDE = "(Turtle-WOW)1. 原型机图纸" -- 55005
+Inst1Quest1_HORDE = "(TW)1. 原型机图纸" -- 55005
 Inst1Quest1_HORDE_Level = "18"
 Inst1Quest1_HORDE_Attain = "16"
 Inst1Quest1_HORDE_Aim = "将原型粉碎机X0-1原理图带给Wrix Ozzlenut。"
-Inst1Quest1_HORDE_Location = "Wrix Ozzlenut (杜隆塔尔 - 激水港; "..YELLOW.."58,26"..WHITE..")"
-Inst1Quest1_HORDE_Note = ""..RED.."!!! FOR NOW QUEST IS BUGGED. Sometimes quest item doesnt drop at all."..WHITE.."\nSneed or Van Clif drops the Prototype Shredder X0-1 Schematic "..YELLOW.."[3]"..WHITE.." or "..YELLOW.."[6]"..WHITE.."."
-Inst1Quest1_HORDE_Prequest = "No"
-Inst1Quest1_HORDE_Folgequest = "No"
+Inst1Quest1_HORDE_Location = "Wrix Ozzlenut (杜隆塔尔 - 激水港; 58,26)"
+Inst1Quest1_HORDE_Note = "!!! 目前任务有问题。有时候任务物品根本不会掉落。\nSneed或Van Clif掉落原型粉碎机X0-1原理图[3]或[6]。"
+Inst1Quest1_HORDE_Prequest = "无"
+Inst1Quest1_HORDE_Folgequest = "无"
 --
-Inst1Quest1name1_HORDE = "Foe Chopper" -- 81316
-Inst1Quest1name2_HORDE = "Shining Electro-lantern" -- 81317
+Inst1Quest1name1_HORDE = "敌人切割者"
+Inst1Quest1name2_HORDE = "闪亮电灯笼"
 
 --Quest 2 Horde
-Inst1Quest2_HORDE = "(Turtle-WOW)2. 葛瑞森船长的复仇" -- 40396
+Inst1Quest2_HORDE = "(TW)2. 葛瑞森船长的复仇" -- 40396
 Inst1Quest2_HORDE_Level = "22"
 Inst1Quest2_HORDE_Attain = "15"
 Inst1Quest2_HORDE_Aim = "杀掉曲奇，带回葛瑞森的吊坠"
 Inst1Quest2_HORDE_Location = "葛瑞森船长 (西部荒野 - 灯塔; "..YELLOW.."30,86"..WHITE..")"
 Inst1Quest2_HORDE_Note = "你在西部荒野的西北部小岛上开始这条任务线;地面上的书"..YELLOW.."26.1,16.5"..WHITE..")。\n"
-Inst1Quest2_HORDE_Prequest = "Food for Sailing Thoughts?" -- 40395
-Inst1Quest2_HORDE_Folgequest = "No"
+Inst1Quest2_HORDE_Prequest = "食物给航海思绪？" -- 40395
+Inst1Quest2_HORDE_Folgequest = "无"
 --
-Inst1Quest2name1_HORDE = "Grayson’s Hat"
+Inst1Quest2name1_HORDE = "格雷森的帽子"
 
 
 --------------- INST2 - Wailing Caverns (WC) ---------------
@@ -372,20 +372,20 @@ Inst2Quest5name1 = "塔巴尔护肩   "
 Inst2Quest5name2 = "泥潭沼泽长靴"
 
 --Quest 6 Alliance
-Inst2Quest6 = "(Turtle-WOW)6. 毒蛇花" -- 60125
+Inst2Quest6 = "(TW)6. 毒蛇花" -- 60125
 Inst2Quest6_Level = "18"
 Inst2Quest6_Attain = "16"
 Inst2Quest6_Aim = "奥伯丁奥兰达利亚·夜歌委托你收集10朵毒蛇花。"
 Inst2Quest6_Location = "奥兰达利亚·夜歌 (奥伯丁 - 黑海岸; "..YELLOW.."37.7,40.7"..WHITE..")"
-Inst2Quest6_Note = "你会在副本前面和副本洞穴内看到Serpentbloom。拥有草药学的玩家可以在他们的小地图上追踪到毒蛇花。You get the Serpentbloom inside the cave in front of the instance and inside the instance. "
+Inst2Quest6_Note = "你会在副本前面和副本洞穴内看到毒蛇花。拥有草药学的玩家可以在他们的小地图上追踪到毒蛇花。你可以在副本洞穴前面和副本内获得毒蛇花。"
 Inst2Quest6_Prequest = "无"
 Inst2Quest6_Folgequest = "无"
 --
-Inst2Quest6name1 = "Greenweave Sash"
-Inst2Quest6name2 = "Verdant Boots"
+Inst2Quest6name1 = "绿纹腰带"
+Inst2Quest6name2 = "青翠之靴"
 
 --Quest 7 Alliance
-Inst2Quest7 = "(Turtle-WOW)7. 陷入梦魇" -- 60124
+Inst2Quest7 = "(TW)7. 陷入梦魇" -- 60124
 Inst2Quest7_Level = "19"
 Inst2Quest7_Attain = "16"
 Inst2Quest7_Aim = "艾兰达里安·夜歌希望你前往北贫瘠之地的哀嚎洞穴，解救纳拉雷克斯脱离噩梦。在洞穴中找到他的信徒以了解具体方法。解救纳拉雷克斯后回到她那里复命。\n击败穆塔努斯·吞噬者。"..YELLOW.."[9]"..WHITE.."."
@@ -480,7 +480,7 @@ Inst2Quest7_HORDE_Aim = Inst2Quest5_Aim
 Inst2Quest7_HORDE_Location = Inst2Quest5_Location
 Inst2Quest7_HORDE_Note = Inst2Quest5_Note
 Inst2Quest7_HORDE_Prequest = Inst2Quest5_Prequest
-Inst2Quest7_HORDE_Folgequest = "In Nightmares(ends in Thunder Bluff)" -- 3369
+Inst2Quest7_HORDE_Folgequest = "在噩梦中（在雷霆崖结束）" -- 3369
 --
 Inst2Quest7name1_HORDE = Inst2Quest5name1
 Inst2Quest7name2_HORDE = Inst2Quest5name2
@@ -765,7 +765,7 @@ Inst4Quest16_Folgequest = "有，法力怒灵"
 -- No Rewards for this quest
 
 --Quest 17 Alliance
-Inst4Quest17 = "(Turtle-WOW)17. 偷一个核心" -- 40129 -> 40132
+Inst4Quest17 = "(TW)17. 偷一个核心" -- 40129 -> 40132
 Inst4Quest17_Level = "45"
 Inst4Quest17_Attain = "45"
 Inst4Quest17_Aim = "从奥达曼的古代宝藏中获取一个完整的能量核心。"
@@ -897,7 +897,7 @@ Inst4Quest10_HORDE_Folgequest = Inst4Quest16_Folgequest
 -- No Rewards for this quest
 
 --Quest 11 Horde
-Inst4Quest11_HORDE = "(Turtle-WOW)11. 征用旧件" -- 40131 -> 40133
+Inst4Quest11_HORDE = "(TW)11. 征用旧件" -- 40131 -> 40133
 Inst4Quest11_HORDE_Level = "45"
 Inst4Quest11_HORDE_Attain = "45"
 Inst4Quest11_HORDE_Aim = "从奥达曼的古代宝藏中获取一个完整的能量核心。"
@@ -1130,7 +1130,7 @@ Inst5Quest17_Folgequest = "无"
 -- No Rewards for this quest
 
 --Quest 18 Alliance
-Inst5Quest18 = "(Turtle-WOW)18. 行动：帮助杰比" -- 40757
+Inst5Quest18 = "(TW)18. 行动：帮助杰比" -- 40757
 Inst5Quest18_Level = "58"
 Inst5Quest18_Attain = "50"
 Inst5Quest18_Aim = "进入黑石深渊，从达尼格·黑须那里夺回'极其强效的鼻烟'（位于住所附近，在桥后面的[7]和[8]之间，住所之后），交给塔纳利斯的蒸汽车队港口的贾比。"
@@ -1141,7 +1141,7 @@ Inst5Quest18_Folgequest = "帮助贾比的行动2 -> 返回螺旋熔丝行动 ->
 -- No Rewards for this quest
 
 --Quest 19 Alliance
-Inst5Quest19 = "(Turtle-WOW)19. 暗铁亵渎者" -- 40762
+Inst5Quest19 = "(TW)19. 暗铁亵渎者" -- 40762
 Inst5Quest19_Level = "60"
 Inst5Quest19_Attain = "55"
 Inst5Quest19_Aim = "我需要从黑石深渊中获取一个岩浆凝结器，你可以在魔像实验室附近找到它"..YELLOW.."[25]"..WHITE.."."
@@ -1153,7 +1153,7 @@ Inst5Quest19_Folgequest = "无"
 Inst5Quest19name1 = "黑铁亵渎者"
 
 --Quest 20 Alliance
-Inst5Quest20 = "(Turtle-WOW)20. 参议员复仇" -- 40464
+Inst5Quest20 = "(TW)20. 参议员复仇" -- 40464
 Inst5Quest20_Level = "56"
 Inst5Quest20_Attain = "45"
 Inst5Quest20_Aim = "在黑石深渊深处击败25个暗石议员，交给燃烧平原的黑石小径上的奥瓦克·斯特恩洛克。"
@@ -1166,7 +1166,7 @@ Inst5Quest20name1 = "暗石徽章"
 
 
 --Quest 21 Alliance
-Inst5Quest21 = "(Turtle-WOW)21. 奥术傀儡核心" -- 40467
+Inst5Quest21 = "(TW)21. 奥术傀儡核心" -- 40467
 Inst5Quest21_Level = "55"
 Inst5Quest21_Attain = "45"
 Inst5Quest21_Aim = "在黑石深渊中找到并收集一个奥术魔像核心，来自魔像领主阿格曼奇"..YELLOW.."[14]"..WHITE.."，然后回到燃烧平原的黑石小径找拉德甘·深焰。"
@@ -1179,7 +1179,7 @@ Inst5Quest21name1 = "充能魔像核心"
 
 
 --Quest 22 Alliance
-Inst5Quest22 = "(Turtle-WOW)22. 建造一个重击者" -- 80401
+Inst5Quest22 = "(TW)22. 建造一个重击者" -- 80401
 Inst5Quest22_Level = "60"
 Inst5Quest22_Attain = "30"
 Inst5Quest22_Aim = "除此之外，我还需要一个完美的魔像核心来制作破坏者。黑石深渊中的黑铁魔像是一个很好的来源。魔像领主阿格曼奇"..YELLOW.."[14]"..WHITE.."可能会有一个。"
@@ -1195,7 +1195,7 @@ Inst5Quest22name4 = "强化黑色破坏者"
 
 
 --Quest 23 Alliance
-Inst5Quest23 = "(Turtle-WOW)23. 冬幕节酒。" -- 40748
+Inst5Quest23 = "(TW)23. 冬幕节酒。" -- 40748
 Inst5Quest23_Level = "55"
 Inst5Quest23_Attain = "45"
 Inst5Quest23_Aim = "在黑石深渊的洞穴中找回冬幕节酒桶，交给冬幕节谷的博玛恩·火斧。"
@@ -1929,7 +1929,7 @@ Inst8Quest14name1 = "设计图：炽热板甲护手 "
 Inst8Quest14name2 = "炽热板甲护手"
 
 --Quest 15 Alliance
-Inst8Quest15 = "(Turtle-WOW)15. 暗铁亵渎者" -- 40762
+Inst8Quest15 = "(TW)15. 暗铁亵渎者" -- 40762
 Inst8Quest15_Level = "60"
 Inst8Quest15_Attain = "55"
 Inst8Quest15_Aim = "我需要一个能够承受极高温度的精细奥金桶。它可以在黑石塔下层的深处找到，靠近军需官 "..YELLOW.."[16]"..WHITE.."。"
@@ -2126,7 +2126,7 @@ Inst8Quest15_HORDE_Folgequest = Inst8Quest15_Folgequest
 Inst8Quest15name1_HORDE = Inst8Quest15name1
 
 --Quest 16 Horde
-Inst8Quest16_HORDE = "(Turtle-WOW)16. 森林巨魔的败类" -- 40495
+Inst8Quest16_HORDE = "(TW)16. 森林巨魔的败类" -- 40495
 Inst8Quest16_HORDE_Level = "60"
 Inst8Quest16_HORDE_Attain = "48"
 Inst8Quest16_HORDE_Aim = "击败黑石塔下层的战争大师沃恩 "..YELLOW.."[9]"..WHITE.."，并将他的獠牙带回燃烧平原的卡方要塞交给工头奥格戈。"
@@ -2138,7 +2138,7 @@ Inst8Quest16_HORDE_Folgequest = "否"
 Inst8Quest16name1_HORDE = "工头鞭笞" --60715
 
 --Quest 17 Horde
-Inst8Quest17_HORDE = "(Turtle-WOW)17. 掠夺者的突袭" -- 40498
+Inst8Quest17_HORDE = "(TW)17. 掠夺者的突袭" -- 40498
 Inst8Quest17_HORDE_Level = "58"
 Inst8Quest17_HORDE_Attain = "50"
 Inst8Quest17_HORDE_Aim = "击败黑石塔中的奴役者基兹卢尔 "..YELLOW.."[17]"..WHITE.."，然后向卡方要塞的劫掠者法戈什报告。"
@@ -2152,7 +2152,7 @@ Inst8Quest17name2_HORDE = "煤渣行者凉鞋" --60718
 Inst8Quest17name3_HORDE = "法戈什之斧" --60719
 
 --Quest 18 Horde
-Inst8Quest18_HORDE = "(Turtle-WOW)18. 最后的裂缝" -- 40509
+Inst8Quest18_HORDE = "(TW)18. 最后的裂缝" -- 40509
 Inst8Quest18_HORDE_Level = "59"
 Inst8Quest18_HORDE_Attain = "50"
 Inst8Quest18_HORDE_Aim = "在黑石塔深处击败军需官兹格里斯 "..YELLOW.."[16]"..WHITE.."，然后回到燃烧平原的卡方要塞向卡方报告。"
@@ -2914,7 +2914,7 @@ Inst12Quest17_Folgequest = "有，煅造奎尔塞拉"
 -- No Rewards for this quest
 
 --Quest 18 Alliance
-Inst12Quest18 = "(Turtle-WOW)18. 保守秘密" -- 40254
+Inst12Quest18 = "(TW)18. 保守秘密" -- 40254
 Inst12Quest18_Level = "58"
 Inst12Quest18_Attain = "45"
 Inst12Quest18_Aim = "前往厄运之槌，击败被高等精灵吸取能量的邪恶存在，收集纯净的魔网精华，然后回到艾萨拉的守护者莱娜那里。"
@@ -4155,7 +4155,7 @@ Inst21Quest1name3 = Inst19Quest1name3
 Inst21Quest1name4 = Inst19Quest1name4
 
 --Quest 2 Alliance
-Inst21Quest2 = "(Turtle-WOW)2. 卡拉杜斯之球" --40233
+Inst21Quest2 = "(TW)2. 卡拉杜斯之球" --40233
 Inst21Quest2_Level = "38"
 Inst21Quest2_Attain = "30"
 Inst21Quest2_Aim = "进入血色修道院，找到卡拉杜斯之球，取回它，然后回到哀伤卫队的守望圣骑士贾纳索斯那里。"
@@ -4228,7 +4228,7 @@ Inst22Quest2name2_HORDE = "悲哀衬肩"
 Inst22Quest2name3_HORDE = "十字军斗篷"
 
 --Quest 3 Horde
-Inst22Quest3_HORDE = "(Turtle-WOW)3. 鲜血之路" --60116
+Inst22Quest3_HORDE = "(TW)3. 鲜血之路" --60116
 Inst22Quest3_HORDE_Level = "29"
 Inst22Quest3_HORDE_Attain = "27"
 Inst22Quest3_HORDE_Aim = "消灭血色修道院外的血色军队，然后回到布瑞尔的死亡卫兵伯吉斯那里。\n击败血色侦察兵（5）\n击败血色保卫者（5）\n击败血色哨兵（10）"
@@ -4379,7 +4379,7 @@ Inst23Quest11_Folgequest = "最后的准备 ("..YELLOW.."黑石塔上层"..WHITE
 -- No Rewards for this quest
 
 --Quest 12 Alliance
-Inst23Quest12 = "(Turtle-WOW)12. 帮法尔桑的忙。" -- 40237
+Inst23Quest12 = "(TW)12. 帮法尔桑的忙。" -- 40237
 Inst23Quest12_Level = "58"
 Inst23Quest12_Attain = "55"
 Inst23Quest12_Aim = "进入通灵学院，为拉塔基特的斯特拉哈德·法尔萨恩找回书籍《火焰的召唤与命令》。"
@@ -4568,7 +4568,7 @@ Inst24Quest2name1 = "索兰鲁克宝珠"
 Inst24Quest2name2 = "索拉鲁克法杖"
 
 --Quest 3 Alliance
-Inst24Quest3 = "(Turtle-WOW)3. 大法师阿鲁高" -- 60108
+Inst24Quest3 = "(TW)3. 大法师阿鲁高" -- 60108
 Inst24Quest3_Level = "27"
 Inst24Quest3_Attain = "22"
 Inst24Quest3_Aim = "大法师安多玛斯要求你击败大法师阿鲁高 "..YELLOW.."[12]"..WHITE.."。完成后回到他那里。"
@@ -4580,7 +4580,7 @@ Inst24Quest3_Folgequest = "否"
 Inst24Quest3name1 = "阿鲁高的戒指" --51805
 
 --Quest 4 Alliance
-Inst24Quest4 = "(Turtle-WOW)4. 失踪的巫师" -- 60109
+Inst24Quest4 = "(TW)4. 失踪的巫师" -- 60109
 Inst24Quest4_Level = "24"
 Inst24Quest4_Attain = "22"
 Inst24Quest4_Aim = "大法师安多玛斯希望你前往银松森林的影牙城堡，了解一下发生了什么事情，找到巫师阿什克伦贝。"
@@ -4642,7 +4642,7 @@ Inst24Quest4name1_HORDE = Inst24Quest2name1
 Inst24Quest4name2_HORDE = Inst24Quest2name1
 
 --Quest 5 Horde
-Inst24Quest5_HORDE = "(Turtle-WOW)5. 进入下颚" -- 40281
+Inst24Quest5_HORDE = "(TW)5. 进入下颚" -- 40281
 Inst24Quest5_HORDE_Level = "25"
 Inst24Quest5_HORDE_Attain = "15"
 Inst24Quest5_HORDE_Aim = "在影牙城堡的图书馆中找到梅莱纳斯的物品，并将它们交给幽暗城的皮尔斯·沙克尔顿。"
@@ -4868,7 +4868,7 @@ Inst25Quest17_Folgequest = "无"
 Inst25Quest17name1 = "设计图：魔法战锤"
 
 --Quest 18 Alliance
-Inst25Quest18 = "(Turtle-WOW)18. 建造一个重击者" -- 80401
+Inst25Quest18 = "(TW)18. 建造一个重击者" -- 80401
 Inst25Quest18_Level = "60"
 Inst25Quest18_Attain = "30"
 Inst25Quest18_Aim = "我需要的最后一个部件是用于内骨架的高质量精金棒。我相信斯坦索姆的锻造厂过去曾制作过这样的棒子。"
@@ -4883,7 +4883,7 @@ Inst25Quest18name3 = "强化蓝色破碎者"
 Inst25Quest18name4 = "强化黑色破碎者"
 
 --Quest 19 Alliance
-Inst25Quest19 = "(Turtle-WOW)19. 唤醒灰烬使者。" -- 20002
+Inst25Quest19 = "(TW)19. 唤醒灰烬使者。" -- 20002
 Inst25Quest19_Level = "60"
 Inst25Quest19_Attain = "60"
 Inst25Quest19_Aim = "夺回灰烬使者的战袍（击败大十字军达斯·托尔哈）和亚历山德罗斯的披风（从斯坦索姆获得）。"
@@ -5115,7 +5115,7 @@ Inst25Quest18name1_HORDE = "阿莱克希斯皇家戒指"
 Inst25Quest18name2_HORDE = "元素之环"
 
 --Quest 19 Horde
-Inst25Quest19_HORDE = "(Turtle-WOW)19. 建造一个重击者" -- 80401
+Inst25Quest19_HORDE = "(TW)19. 建造一个重击者" -- 80401
 Inst25Quest19_HORDE_Level = "60"
 Inst25Quest19_HORDE_Attain = "30"
 Inst25Quest19_HORDE_Aim = "我需要的最后一个部件是用于内骨架的高质量精金棒。我相信斯坦索姆的锻造厂过去曾制作过这样的棒子。"
@@ -5130,7 +5130,7 @@ Inst25Quest19name3_HORDE = "强化蓝色破碎者"
 Inst25Quest19name4_HORDE = "强化黑色破碎者"
 
 --Quest 20 Horde
-Inst25Quest20_HORDE = "(Turtle-WOW)20. 唤醒灰烬使者"
+Inst25Quest20_HORDE = "(TW)20. 唤醒灰烬使者"
 Inst25Quest20_HORDE_Level = Inst25Quest19_Level
 Inst25Quest20_HORDE_Attain = Inst25Quest19_Attain
 Inst25Quest20_HORDE_Aim = Inst25Quest19_Aim
@@ -5294,7 +5294,7 @@ Inst27Quest6_Folgequest = "有，好奇的访客"
 -- No Rewards for this quest
 
 --Quest 7 Alliance
-Inst27Quest7 = "(Turtle-WOW)7. 监狱的线索" -- 55221
+Inst27Quest7 = "(TW)7. 监狱的线索" -- 55221
 Inst27Quest7_Level = "24"
 Inst27Quest7_Attain = "18"
 Inst27Quest7_Aim = "深入监狱，找到关于马丁·科林斯的信息。"
@@ -5538,7 +5538,7 @@ Inst28Quest16_Folgequest = "泰兰德和雷姆洛斯" --8734
 -- No Rewards for this quest
 
 --Quest 17 Alliance
-Inst28Quest17 = "(Turtle-WOW)17. 采取必要的手段 IV" -- 40400
+Inst28Quest17 = "(TW)17. 采取必要的手段 IV" -- 40400
 Inst28Quest17_Level = "53"
 Inst28Quest17_Attain = "47"
 Inst28Quest17_Aim = "前往沉没的神庙，找到龙人哈扎斯，击败他，并将哈扎斯之心交给尼雷米斯·黑风。"
@@ -5771,7 +5771,7 @@ Inst28Quest17_HORDE_Folgequest = Inst28Quest17_Folgequest
 Inst28Quest17name1_HORDE = Inst28Quest17name1
 
 --Quest 18 Horde
-Inst28Quest18_HORDE = "(Turtle-WOW)18. 摩尔危机VII" -- 40270
+Inst28Quest18_HORDE = "(TW)18. 摩尔危机VII" -- 40270
 Inst28Quest18_HORDE_Level = "54"
 Inst28Quest18_HORDE_Attain = "45"
 Inst28Quest18_HORDE_Aim = "进入阿塔哈卡神庙的深处，收集阿塔莱法杖，将其交给因索姆尼完成咒语。"
@@ -5933,7 +5933,7 @@ Inst30Quest7_Folgequest = "无"
 Inst30Quest7name1 = "棍子上的胡萝卜"
 
 --Quest 8 Alliance
-Inst30Quest8 = "(Turtle-WOW)8. 沙地漂流" -- 40519
+Inst30Quest8 = "(TW)8. 沙地漂流" -- 40519
 Inst30Quest8_Level = "46"
 Inst30Quest8_Attain = "40"
 Inst30Quest8_Aim = "进入祖尔法拉克，找到古代巨魔遗骸，然后将它们带回塔纳利斯的南月废墟交给汉苏·戈莎。"
@@ -6040,7 +6040,7 @@ Inst30Quest8_HORDE_Folgequest = Inst30Quest8_Folgequest
 Inst30Quest8name1_HORDE = Inst30Quest8name1
 
 --Quest 9 Horde
-Inst30Quest9_HORDE = "(Turtle-WOW)9. 乌克兹·沙顶的尽头" -- 40527
+Inst30Quest9_HORDE = "(TW)9. 乌克兹·沙顶的尽头" -- 40527
 Inst30Quest9_HORDE_Level = "48"
 Inst30Quest9_HORDE_Attain = "40"
 Inst30Quest9_HORDE_Aim = "在祖尔法拉克内击败乌科兹·沙须和鲁兹鲁，为塔纳利斯的沙月村的勇士塔扎戈完成任务。"
@@ -6307,7 +6307,7 @@ Inst32Quest10_Folgequest = "有，侏儒的手艺"
 Inst32Quest10name1 = "闪亮的金戒指"
 
 --Quest 11 Alliance
-Inst32Quest11 = "(Turtle-WOW)11. 头脑沉闷" -- 80398
+Inst32Quest11 = "(TW)11. 头脑沉闷" -- 80398
 Inst32Quest11_Level = "30"
 Inst32Quest11_Attain = "30"
 Inst32Quest11_Aim = "找到一个能够弄清楚如何处理主机框架的人。"
@@ -6380,7 +6380,7 @@ Inst32Quest5_HORDE_Folgequest = "诺格的戒指重做" -- 2950
 Inst32Quest5name1_HORDE = "闪亮的金戒指"
 
 --Quest 6 Horde
-Inst32Quest6_HORDE = "(Turtle-WOW)6. 头脑沉闷" -- 80398
+Inst32Quest6_HORDE = "(TW)6. 头脑沉闷" -- 80398
 Inst32Quest6_HORDE_Level = Inst32Quest11_Level
 Inst32Quest6_HORDE_Attain = Inst32Quest11_Attain
 Inst32Quest6_HORDE_Aim = Inst32Quest11_Aim
@@ -6391,7 +6391,7 @@ Inst32Quest6_HORDE_Folgequest = Inst32Quest11_Folgequest -- 80401
 -- No Rewards for this quest
 
 --Quest 7 Horde
-Inst32Quest7_HORDE = "(Turtle-WOW)7. 后备电源" -- 55006
+Inst32Quest7_HORDE = "(TW)7. 后备电源" -- 55006
 Inst32Quest7_HORDE_Level = "34"
 Inst32Quest7_HORDE_Attain = "29"
 Inst32Quest7_HORDE_Aim = "将超级通量电容器交给技师格里兹洛。"
@@ -6410,7 +6410,7 @@ Inst39QAA = "4 任务\n4 Turtle"
 Inst39QAH = "3 任务\n3 Turtle"
 
 --Quest 1 Alliance
-Inst39Quest1 = "(Turtle-WOW)1. 不明智的长者" -- 40090
+Inst39Quest1 = "(TW)1. 不明智的长者" -- 40090
 Inst39Quest1_Level = "34"
 Inst39Quest1_Attain = "32"
 Inst39Quest1_Aim = "将新月林地内的“独眼长老”和“黑喉长老”的爪子交给流亡者格罗尔。"
@@ -6422,7 +6422,7 @@ Inst39Quest1_Folgequest = "无"
 Inst39Quest1name1 = "格罗尔的戒指" -- 60179
 
 --Quest 2 Alliance
-Inst39Quest2 = "(Turtle-WOW)2. 猖獗的格罗夫威尔德" -- 40089
+Inst39Quest2 = "(TW)2. 猖獗的格罗夫威尔德" -- 40089
 Inst39Quest2_Level = "33"
 Inst39Quest2_Attain = "32"
 Inst39Quest2_Aim = "进入新月林地，从里面的熊怪身上收集8个格罗夫维尔德徽章，交给流亡者格罗尔。"
@@ -6433,7 +6433,7 @@ Inst39Quest2_Folgequest = "无"
 -- No Rewards for this quest
 
 --Quest 3 Alliance
-Inst39Quest3 = "(Turtle-WOW)3. 卡拉纳尔的木槌" -- 40326
+Inst39Quest3 = "(TW)3. 卡拉纳尔的木槌" -- 40326
 Inst39Quest3_Level = "33"
 Inst39Quest3_Attain = "32"
 Inst39Quest3_Aim = "前往新月林地，找到卡拉纳·明煌的烧毁的家，并取回卡拉纳的木槌，然后将其归还给他在阿斯特兰纳。"
@@ -6444,7 +6444,7 @@ Inst39Quest3_Folgequest = "无"
 -- No Rewards for this quest
 
 --Quest 4 Alliance
-Inst39Quest4 = "(Turtle-WOW)4. 新月小树林" -- 40091
+Inst39Quest4 = "(TW)4. 新月小树林" -- 40091
 Inst39Quest4_Level = "37"
 Inst39Quest4_Attain = "32"
 Inst39Quest4_Aim = "摧毁新月林地内的腐化源，并返回泰达希尔找到德纳萨里奥。"
@@ -6482,7 +6482,7 @@ Inst39Quest2_HORDE_Folgequest = Inst39Quest2_Folgequest
 -- No Rewards for this quest
 
 --Quest 3 Horde
-Inst39Quest3_HORDE = "(Turtle-WOW)3. 根除邪恶" -- 40147
+Inst39Quest3_HORDE = "(TW)3. 根除邪恶" -- 40147
 Inst39Quest3_HORDE_Level = "37"
 Inst39Quest3_HORDE_Attain = "26"
 Inst39Quest3_HORDE_Aim = "进入新月林地，清除内部的邪恶势力。"
@@ -6504,7 +6504,7 @@ Inst40QAA = "5 任务\n5 Turtle"
 Inst40QAH = "5 任务\n5 Turtle"
 
 --Quest 1 Alliance
-Inst40Quest1 = "(Turtle-WOW)1. 竞争对手的存在" -- 40458
+Inst40Quest1 = "(TW)1. 竞争对手的存在" -- 40458
 Inst40Quest1_Level = "54"
 Inst40Quest1_Attain = "47"
 Inst40Quest1_Aim = "找出憎炉采掘场中正在挖掘的东西。"
@@ -6515,7 +6515,7 @@ Inst40Quest1_Folgequest = "无"
 -- No Rewards for this quest
 
 --Quest 2 Alliance
-Inst40Quest2 = "(Turtle-WOW)2. 矿工工会叛变 II" -- 40468
+Inst40Quest2 = "(TW)2. 矿工工会叛变 II" -- 40468
 Inst40Quest2_Level = "50"
 Inst40Quest2_Attain = "45"
 Inst40Quest2_Aim = "在憎炉采掘场击败20名炽炉矿工，然后回到燃烧平原的黑石小径找莫格里姆·火矛。"
@@ -6527,7 +6527,7 @@ Inst40Quest2_Folgequest = "无"
 Inst40Quest2name1 = "正义束缚" -- 60673
 
 --Quest 3 Alliance
-Inst40Quest3 = "(Turtle-WOW)3. 真正的高级工头" -- 40463
+Inst40Quest3 = "(TW)3. 真正的高级工头" -- 40463
 Inst40Quest3_Level = "51"
 Inst40Quest3_Attain = "45"
 Inst40Quest3_Aim = "击败巴古尔·黑锤 "..YELLOW.."[1]"..WHITE.."，并从他的财物中找回议会的命令 "..YELLOW.."[从他的财物周围]"..WHITE.."，交给燃烧平原的奥尔瓦克·斯特恩洛克。"
@@ -6541,7 +6541,7 @@ Inst40Quest3name2 = "斯特恩洛克的拖鞋" -- 60666
 Inst40Quest3name3 = "火矛的幸运裤子" -- 60667
 
 --Quest 4 Alliance
-Inst40Quest4 = "(Turtle-WOW)4. 仇恨熔炉啤酒的传闻" -- 40490
+Inst40Quest4 = "(TW)4. 仇恨熔炉啤酒的传闻" -- 40490
 Inst40Quest4_Level = "54"
 Inst40Quest4_Attain = "45"
 Inst40Quest4_Aim = "深入憎炉采掘场，找到一瓶黑铁瓶和炽炉化学文档 "..YELLOW.."[不知道具体在哪里]"..WHITE.."，然后回到燃烧平原的摩根斯岗哨找瓦拉格·暗须。"
@@ -6554,7 +6554,7 @@ Inst40Quest4name1 = "雷霆麦酒" -- 2686
 Inst40Quest4name2 = "瓦拉格的爪子" -- 60699
 
 --Quest 5 Alliance
-Inst40Quest5 = "(Turtle-WOW)5. 攻击仇恨熔炉" -- 40489
+Inst40Quest5 = "(TW)5. 攻击仇恨熔炉" -- 40489
 Inst40Quest5_Level = "57"
 Inst40Quest5_Attain = "45"
 Inst40Quest5_Aim = "进入憎炉采掘场，清除深处的暮光之锤势力，完成后回到铁炉堡找玛格尼·铜须国王。"
@@ -6606,7 +6606,7 @@ Inst40Quest3name2_HORDE = Inst40Quest3name2 -- 60666
 Inst40Quest3name3_HORDE = Inst40Quest3name3 -- 60667
 
 --Quest 4 Horde
-Inst40Quest4_HORDE = "(Turtle-WOW)4. 狩猎工程师菲格斯" -- 40539
+Inst40Quest4_HORDE = "(TW)4. 狩猎工程师菲格斯" -- 40539
 Inst40Quest4_HORDE_Level = "55"
 Inst40Quest4_HORDE_Attain = "48"
 Inst40Quest4_HORDE_Aim = "在憎炉采掘场击败工程师费格尔斯 "..YELLOW.."[2]"..WHITE.."，为狼女卡塔拉完成任务。"
@@ -6621,7 +6621,7 @@ Inst40Quest4name3_HORDE = "黑石权威" -- 60773
 Inst40Quest4name4_HORDE = "加尔隆的腰带" -- 60774
 
 --Quest 5 Horde
-Inst40Quest5_HORDE = "(Turtle-WOW)5. 新与旧 IV" -- 40504
+Inst40Quest5_HORDE = "(TW)5. 新与旧 IV" -- 40504
 Inst40Quest5_HORDE_Level = "57"
 Inst40Quest5_HORDE_Attain = "45"
 Inst40Quest5_HORDE_Aim = "进入憎炉采掘场，清除卡弗恩要塞内的暮光之锤势力，完成后回到卡弗恩。"
@@ -6641,7 +6641,7 @@ Inst41QAA = "1 任务\n1 Turtle"
 Inst41QAH = "1 任务\n1 Turtle"
 
 --Quest 1 Alliance
-Inst41Quest1 = "(Turtle-WOW)1. 卡拉赞之谜 VII" -- 40317
+Inst41Quest1 = "(TW)1. 卡拉赞之谜 VII" -- 40317
 Inst41Quest1_Level = "60"
 Inst41Quest1_Attain = "58"
 Inst41Quest1_Aim = "进入卡拉赞地穴，击败看守者阿拉鲁斯，为迪斯塔尔魔导师在逆风小径完成任务。"
@@ -6656,7 +6656,7 @@ Inst41Quest1name3 = "奥术强化戒指" -- 60465
 
 
 --Quest 1 Horde
-Inst41Quest1_HORDE = "(Turtle-WOW)1. 卡拉赞深渊 VII" -- 40310
+Inst41Quest1_HORDE = "(TW)1. 卡拉赞深渊 VII" -- 40310
 Inst41Quest1_HORDE_Level = "60"
 Inst41Quest1_HORDE_Attain = "58"
 Inst41Quest1_HORDE_Aim = "进入卡拉赞地穴，击败看守者阿拉鲁斯，为斯通纳德的科尔甘完成任务。"
@@ -6677,7 +6677,7 @@ Inst42QAA = "4 任务\n4 Turtle"
 Inst42QAH = "4 任务\n4 Turtle"
 
 --Quest 1 Alliance
-Inst42Quest1 = "(Turtle-WOW)1. 黑暗之门的首次开启" -- 80605
+Inst42Quest1 = "(TW)1. 黑暗之门的首次开启" -- 80605
 Inst42Quest1_Level = "60"
 Inst42Quest1_Attain = "60"
 Inst42Quest1_Aim = "进入黑色沼泽的过去，击败安特诺米，并将她的头颅带给凯娅。"
@@ -6692,7 +6692,7 @@ Inst42Quest1name3 = "X-53游侠眼植入物" -- 82952
 Inst42Quest1name4 = "X-54守护者眼植入物" -- 82953
 
 --Quest 2 Alliance
-Inst42Quest2 = "(Turtle-WOW)2. 青铜的背叛" -- 40342
+Inst42Quest2 = "(TW)2. 青铜的背叛" -- 40342
 Inst42Quest2_Level = "60"
 Inst42Quest2_Attain = "58"
 Inst42Quest2_Aim = "击败克罗纳尔，并将他的头颅带给时光之穴的泰瓦德里斯。"
@@ -6706,7 +6706,7 @@ Inst42Quest2name2 = "青铜卫士之戟" -- 60498
 Inst42Quest2name3 = "泰瓦德里斯之戒" -- 60499
 
 --Quest 3 Alliance
-Inst42Quest3 = "(Turtle-WOW)3. 腐化之沙" -- 40340
+Inst42Quest3 = "(TW)3. 腐化之沙" -- 40340
 Inst42Quest3_Level = "60"
 Inst42Quest3_Attain = "58"
 Inst42Quest3_Aim = "在时光之穴为德鲁诺姆收集一份腐化沙土。"
@@ -6717,7 +6717,7 @@ Inst42Quest3_Folgequest = "无"
 -- No Rewards for this quest
 
 --Quest 4 Alliance
-Inst42Quest4 = "(Turtle-WOW)4. 散装沙子" -- 40341
+Inst42Quest4 = "(TW)4. 散装沙子" -- 40341
 Inst42Quest4_Level = "60"
 Inst42Quest4_Attain = "58"
 Inst42Quest4_Aim = "在时光之穴为德鲁诺姆收集10份腐化沙土。"
@@ -6786,7 +6786,7 @@ Inst43QAA = "3 任务\n3 Turtle"
 Inst43QAH = "2 任务\n2 Turtle"
 
 --Quest 1 Alliance
-Inst43Quest1 = "(Turtle-WOW)1. 恢复地牢枷锁" -- 40426
+Inst43Quest1 = "(TW)1. 恢复地牢枷锁" -- 40426
 Inst43Quest1_Level = "60"
 Inst43Quest1_Attain = "55"
 Inst43Quest1_Aim = "在暴风城地牢内，击败符文构造体，获得2个符文束缚，然后将它们交给科利·蒸心。"
@@ -6797,7 +6797,7 @@ Inst43Quest1_Folgequest = "无"
 -- No Rewards for this quest
 
 --Quest 2 Alliance
-Inst43Quest2 = "(Turtle-WOW)2. 结束阿克提拉斯" -- 40427
+Inst43Quest2 = "(TW)2. 结束阿克提拉斯" -- 40427
 Inst43Quest2_Level = "60"
 Inst43Quest2_Attain = "55"
 Inst43Quest2_Aim = "深入暴风城地牢，找到阿克提拉斯并击败他，为了暴风城的利益。完成后，回到佩平·安斯沃斯。"
@@ -6811,7 +6811,7 @@ Inst43Quest2name2 = "暴风城黄金护手" -- 60625
 Inst43Quest2name3 = "华贵金线腰带" -- 60626
 
 --Quest 3 Alliance
-Inst43Quest3 = "(Turtle-WOW)3. 错综复杂的奥术与魔法现象之书 IX" -- 40425
+Inst43Quest3 = "(TW)3. 错综复杂的奥术与魔法现象之书 IX" -- 40425
 Inst43Quest3_Level = "60"
 Inst43Quest3_Attain = "55"
 Inst43Quest3_Aim = "为马泽恩·麦克纳迪尔在暴风城找回奥术细节和魔法现象第九卷。"
