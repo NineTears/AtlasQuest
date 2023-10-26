@@ -1,17 +1,15 @@
 ## Interface: 11200
 ## Title: AtlasQuest
+## Title-zhCN: AtlasQuest 副本任务增强（WIND修改）
 ## Notes: Shows the Quests for the instance.
 ## Notes-ruRU: Ïîêàçûâàåò çàäàíèÿ äëÿ ïîäçåìåëüÿ.
 ## Notes-deDE: Zeigt die Quests, die es f\195\188r die jeweiligen Instanzen gibt.
 ## Notes-koKR: Shows the Quests for the instance.
-## Notes-zhCN: Shows the Quests for the instance.
+## Notes-zhCN: |CFF00FF00AtlasQuest|R|N显示副本和战场相关任务及副本背景。
 ## Notes-esES: Muestra las Misiones para la instancia.
-## Author:
-## Updated by: Shahopriest
-## CLI by:
 ## Version: 4.1.3 TurtleWOW Edition
 ## X-eMail: m4r3lk4@gmail.com
-## X-Website:
+## X-Website:https://github.com/Nonameby/AtlasQuest
 ## X-Category: MYADDONS_CATEGORY_MAP
 ## X-Date: 24.06.2023
 ## X-Help: AtlasQuestHelp
