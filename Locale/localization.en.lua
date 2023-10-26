@@ -395,7 +395,7 @@ Inst2Quest7_Prequest = "无"
 Inst2Quest7_Folgequest = "无"
 --
 Inst2Quest7name1 = "古老的精灵长袍"
-Inst2Quest7name2 = "Thunderhorn"
+Inst2Quest7name2 = "雷角"
 
 
 --Quest 1 Horde (same as Quest 1 Alliance)
@@ -6375,7 +6375,7 @@ Inst32Quest5_HORDE_Aim = "你要么自己留着这枚戒指，要么就按照戒
 Inst32Quest5_HORDE_Location = "闪亮的金戒指（从脏兮兮的戒指清洁后获得）"
 Inst32Quest5_HORDE_Note = "把戒指交给诺格（奥格瑞玛 - 荣誉谷; "..YELLOW.."75,25"..WHITE.."）。奖励的戒指为随机属性。"
 Inst32Quest5_HORDE_Prequest = "有，脏兮兮的戒指"
-Inst32Quest5_HORDE_Folgequest = ""诺格的戒指重做" -- 2950
+Inst32Quest5_HORDE_Folgequest = "诺格的戒指重做" -- 2950
 --
 Inst32Quest5name1_HORDE = "闪亮的金戒指"
 
@@ -6507,9 +6507,9 @@ Inst40QAH = "5 任务\n5 Turtle"
 Inst40Quest1 = "(Turtle-WOW)1. 竞争对手的存在" -- 40458
 Inst40Quest1_Level = "54"
 Inst40Quest1_Attain = "47"
-Inst40Quest1_Aim = "找出炽炉石场中正在挖掘的东西。"
+Inst40Quest1_Aim = "找出憎炉采掘场中正在挖掘的东西。"
 Inst40Quest1_Location = "监工油拳 <瑟银兄弟会>（灼热峡谷 - 瑟银哨站；"..YELLOW.."38.1,27.0"..WHITE.."）。"
-Inst40Quest1_Note = "炽炉石场化学家掉落炽炉酿酒瓶，用于任务。"
+Inst40Quest1_Note = "憎炉采掘场化学家掉落炽炉酿酒瓶，用于任务。"
 Inst40Quest1_Prequest = "无"
 Inst40Quest1_Folgequest = "无"
 -- No Rewards for this quest
@@ -6518,7 +6518,7 @@ Inst40Quest1_Folgequest = "无"
 Inst40Quest2 = "(Turtle-WOW)2. 矿工工会叛变 II" -- 40468
 Inst40Quest2_Level = "50"
 Inst40Quest2_Attain = "45"
-Inst40Quest2_Aim = "在炽炉石场击败20名炽炉矿工，然后回到燃烧平原的黑石小径找莫格里姆·火矛。"
+Inst40Quest2_Aim = "在憎炉采掘场击败20名炽炉矿工，然后回到燃烧平原的黑石小径找莫格里姆·火矛。"
 Inst40Quest2_Location = "莫格里姆·火矛（燃烧平原 - 黑石小径；"..YELLOW.."75.6,68.3"..WHITE.."）。"
 Inst40Quest2_Note = "任务线从莱德甘·深焰那里开始，接任务“赢得奥尔瓦克的信任”（燃烧平原 - 黑石小径；"..YELLOW.."76.1,67.6"..WHITE.."）。"
 Inst40Quest2_Prequest = "赢得奥尔瓦克的信任 -> 听奥尔瓦克的故事 -> 斯特恩洛克的藏宝地 -> 矿工工会的叛乱"
@@ -6541,7 +6541,7 @@ Inst40Quest3name2 = "斯特恩洛克的拖鞋" -- 60666
 Inst40Quest3name3 = "火矛的幸运裤子" -- 60667
 
 --Quest 4 Alliance
-Inst40Quest4 = "(龟服-WOW)4. 仇恨熔炉啤酒的传闻" -- 40490
+Inst40Quest4 = "(Turtle-WOW)4. 仇恨熔炉啤酒的传闻" -- 40490
 Inst40Quest4_Level = "54"
 Inst40Quest4_Attain = "45"
 Inst40Quest4_Aim = "深入憎炉采掘场，找到一瓶黑铁瓶和炽炉化学文档 "..YELLOW.."[不知道具体在哪里]"..WHITE.."，然后回到燃烧平原的摩根斯岗哨找瓦拉格·暗须。"
@@ -6557,10 +6557,10 @@ Inst40Quest4name2 = "瓦拉格的爪子" -- 60699
 Inst40Quest5 = "(Turtle-WOW)5. 攻击仇恨熔炉" -- 40489
 Inst40Quest5_Level = "57"
 Inst40Quest5_Attain = "45"
-Inst40Quest5_Aim = "进入炽炉石场，清除深处的暮光之锤势力，完成后回到铁炉堡找玛格尼·铜须国王。"
+Inst40Quest5_Aim = "进入憎炉采掘场，清除深处的暮光之锤势力，完成后回到铁炉堡找玛格尼·铜须国王。"
 Inst40Quest5_Location = "参议员石腰（燃烧平原 - 摩根斯岗哨；"..YELLOW.."85.2,67.9"..WHITE.."）。"
-Inst40Quest5_Note = "击败最后的首领哈格什·末日召唤者 "..YELLOW.."[5]"..WHITE.."。任务线从同一任务发放者处开始，接任务“调查炽炉石场”。"
-Inst40Quest5_Prequest = "调查炽炉石场 -> 炽炉报告 -> 国王的回应"
+Inst40Quest5_Note = "击败最后的首领哈格什·末日召唤者 "..YELLOW.."[5]"..WHITE.."。任务线从同一任务发放者处开始，接任务“调查憎炉采掘场”。"
+Inst40Quest5_Prequest = "调查憎炉采掘场 -> 炽炉报告 -> 国王的回应"
 Inst40Quest5_Folgequest = "无"
 --
 Inst40Quest5name1 = "格罗比的王冠" -- 60694
@@ -6609,7 +6609,7 @@ Inst40Quest3name3_HORDE = Inst40Quest3name3 -- 60667
 Inst40Quest4_HORDE = "(Turtle-WOW)4. 狩猎工程师菲格斯" -- 40539
 Inst40Quest4_HORDE_Level = "55"
 Inst40Quest4_HORDE_Attain = "48"
-Inst40Quest4_HORDE_Aim = "在炽炉石场击败工程师费格尔斯 "..YELLOW.."[2]"..WHITE.."，为狼女卡塔拉完成任务。"
+Inst40Quest4_HORDE_Aim = "在憎炉采掘场击败工程师费格尔斯 "..YELLOW.."[2]"..WHITE.."，为狼女卡塔拉完成任务。"
 Inst40Quest4_HORDE_Location = "狼女卡塔拉（燃烧平原 - 卡弗恩要塞；"..YELLOW.."89.4,24.5"..WHITE.."，燃烧平原的东北角）。"
 Inst40Quest4_HORDE_Note = ""
 Inst40Quest4_HORDE_Prequest = "奇怪的事情" -- 40538
@@ -6780,8 +6780,8 @@ Inst42Quest4_HORDE_Folgequest = Inst42Quest4_Folgequest
 -- No Rewards for this quest
 
 --------------- INST43 - Stormwind Vault (SWV) -----------
-Inst43Story = "暴风城地下室是位于暴风城的副本地下城。地下室的守护符文正在削弱，其中的恶魔再次威胁着艾泽拉斯，你必须冒险下去，一劳永逸地阻止这些恶魔。"
-Inst43Caption = "暴风城地下室"
+Inst43Story = "暴风城地牢是位于暴风城的副本地下城。地下室的守护符文正在削弱，其中的恶魔再次威胁着艾泽拉斯，你必须冒险下去，一劳永逸地阻止这些恶魔。"
+Inst43Caption = "暴风城地牢"
 Inst43QAA = "3 任务\n3 Turtle"
 Inst43QAH = "2 任务\n2 Turtle"
 
@@ -6789,7 +6789,7 @@ Inst43QAH = "2 任务\n2 Turtle"
 Inst43Quest1 = "(Turtle-WOW)1. 恢复地牢枷锁" -- 40426
 Inst43Quest1_Level = "60"
 Inst43Quest1_Attain = "55"
-Inst43Quest1_Aim = "在暴风城地下室内，击败符文构造体，获得2个符文束缚，然后将它们交给科利·蒸心。"
+Inst43Quest1_Aim = "在暴风城地牢内，击败符文构造体，获得2个符文束缚，然后将它们交给科利·蒸心。"
 Inst43Quest1_Location = "科利·蒸心（暴风城 "..YELLOW.."54.5,47.1"..WHITE.."）"
 Inst43Quest1_Note = "你可以在地下城前的暴风城街道上找到科利·蒸心。"
 Inst43Quest1_Prequest = "无"
@@ -6800,7 +6800,7 @@ Inst43Quest1_Folgequest = "无"
 Inst43Quest2 = "(Turtle-WOW)2. 结束阿克提拉斯" -- 40427
 Inst43Quest2_Level = "60"
 Inst43Quest2_Attain = "55"
-Inst43Quest2_Aim = "深入暴风城地下室，找到阿克提拉斯并击败他，为了暴风城的利益。完成后，回到佩平·安斯沃斯。"
+Inst43Quest2_Aim = "深入暴风城地牢，找到阿克提拉斯并击败他，为了暴风城的利益。完成后，回到佩平·安斯沃斯。"
 Inst43Quest2_Location = "佩平·安斯沃斯（暴风城 "..YELLOW.."54.5,47.2"..WHITE.."）"
 Inst43Quest2_Note = "你可以在地下城前的暴风城街道上找到佩平·安斯沃斯。\n阿克提拉斯 "..YELLOW.."[6]"..WHITE.." 是地下城中最后的战斗，他是一个带有大蓝色水晶的怪物。"
 Inst43Quest2_Prequest = "无"
@@ -6816,7 +6816,7 @@ Inst43Quest3_Level = "60"
 Inst43Quest3_Attain = "55"
 Inst43Quest3_Aim = "为马泽恩·麦克纳迪尔在暴风城找回奥术细节和魔法现象第九卷。"
 Inst43Quest3_Location = "马泽恩·麦克纳迪尔（暴风城 "..YELLOW.."41.6,64.3"..WHITE.."）"
-Inst43Quest3_Note = "神秘的奥术细节和魔法现象第九卷被藏在暴风城地下室的深处。\n马泽恩·麦克纳迪尔位于斯托卡德副本入口的西南建筑物内。"
+Inst43Quest3_Note = "神秘的奥术细节和魔法现象第九卷被藏在暴风城地牢的深处。\n马泽恩·麦克纳迪尔位于斯托卡德副本入口的西南建筑物内。"
 Inst43Quest3_Prequest = "无"
 Inst43Quest3_Folgequest = "无"
 --
