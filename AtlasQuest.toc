@@ -1,13 +1,13 @@
 ## Interface: 11200
-## Title: AtlasQuest 副本任务(Wind汉化修复)
-## Title-zhCN: AtlasQuest 副本任务(Wind汉化修复)
-## Notes: |CFF00FF00AtlasQuest|R|N显示副本和战场相关任务及副本背景。
+## Title: |CFF33AAFF[辅助]|RAtlasQuest 副本任务 |cffcccccc[Turtle-WoW]|R
+## Title-zhCN: |CFF33AAFF[辅助]|RAtlasQuest 副本任务 |cffcccccc[Turtle-WoW]|R
+## Notes: AtlasQuest 副本任务 |cffcccccc[Turtle-WoW]|R中文端汉化修复由|cff33ffccNineTears(Wind)|R完成。
+## Notes-zhCN: AtlasQuest 副本任务 |cffcccccc[Turtle-WoW]|R中文端汉化修复由|cff33ffccNineTears(Wind)|R完成。
 ## Notes-ruRU: Ïîêàçûâàåò çàäàíèÿ äëÿ ïîäçåìåëüÿ.
 ## Notes-deDE: Zeigt die Quests, die es f\195\188r die jeweiligen Instanzen gibt.
 ## Notes-koKR: Shows the Quests for the instance.
-## Notes-zhCN: |CFF00FF00AtlasQuest|R|N显示副本和战场相关任务及副本背景。
 ## Notes-esES: Muestra las Misiones para la instancia.
-## Author:
+## Author:Shahopriest,Nonameby,|cff33ffccNineTears(Wind)|R
 ## Updated by: Shahopriest
 ## CLI by:
 ## Version: 4.1.4
