@@ -7360,7 +7360,7 @@ Inst45Quest2_Folgequest = "Spectral Wine" -- 41085
 -- No Rewards for this quest
 
 --Quest 3 Alliance
-Inst45Quest3 = "(TW)3. Spectral Wine" -- 41085
+Inst45Quest3 = "(TW)3. 光谱酒" -- 41085
 Inst45Quest3_Level = "60"
 Inst45Quest3_Attain = "55"
 Inst45Quest3_Aim = "为卡拉赞的厨师收集3个死灵精华、5瓶波尔多酒和1个幽灵菇。"
