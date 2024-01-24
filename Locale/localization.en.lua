@@ -7355,11 +7355,11 @@ Inst45Quest2_Aim = "与可能知道如何为议员凯尔森提供酒的人交谈
 Inst45Quest2_Location = "议员凯尔森（"..YELLOW.."[卡拉赞 - c]"..WHITE.."）。"
 Inst45Quest2_Note = "将任务交给"..YELLOW.."[卡拉赞 - d]"..WHITE.."的厨师。"
 Inst45Quest2_Prequest = "合适的住宿" -- 41083
-Inst45Quest2_Folgequest = "Spectral Wine" -- 41085
+Inst45Quest2_Folgequest = "光谱酒" -- 41085
 -- No Rewards for this quest
 
 --Quest 3 Alliance
-Inst45Quest3 = "(TW)3. Spectral Wine" -- 41085
+Inst45Quest3 = "(TW)3. 光谱酒" -- 41085
 Inst45Quest3_Level = "60"
 Inst45Quest3_Attain = "55"
 Inst45Quest3_Aim = "为卡拉赞的厨师收集3个死灵精华、5瓶波尔多酒和1个幽灵菇。"
@@ -7376,7 +7376,7 @@ Inst45Quest4_Attain = "55"
 Inst45Quest4_Aim = "将幽灵酒交给卡拉赞的议员凯尔森"..YELLOW.."[卡拉赞 - c]"..WHITE.."。"
 Inst45Quest4_Location = "厨师（"..YELLOW.."[卡拉赞 - d]"..WHITE.."）。"
 Inst45Quest4_Note = ""
-Inst45Quest4_Prequest = "Spectral Wine" -- 41085
+Inst45Quest4_Prequest = "光谱酒" -- 41085
 Inst45Quest4_Folgequest = "无"
 -- No Rewards for this quest
 
