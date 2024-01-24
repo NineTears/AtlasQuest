@@ -1,29 +1,29 @@
 --[[
-	
+
 	AtlasQuest, a World of Warcraft addon.
 	Email me at m4r3lk4@gmail.com
-	
+
 	This file is part of AtlasQuest.
-	
+
 	AtlasQuest is free software; you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
 	the Free Software Foundation; either version 2 of the License, or
 	(at your option) any later version.
-	
+
 	AtlasQuest is distributed in the hope that it will be useful,
 	but WITHOUT ANY WARRANTY; without even the implied warranty of
 	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 	GNU General Public License for more details.
-	
+
 	You should have received a copy of the GNU General Public License
 	along with AtlasQuest; if not, write to the Free Software
 	Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
-	
+
 --]]
 
 -- Wind汉化修复Turtle-WOW-zhCN端
 -- https://github.com/NineTears/AtlasQuest-Turtle-zhCN
--- Last update: 2023-11-25
+-- Last update: 2024-01-24
 
 if ( GetLocale() == "zhCN" ) then
 ---------------
@@ -163,7 +163,7 @@ AQITEM_ENCHANT = "附魔"
 Inst1Story = "这里曾经是人类最主要的产金地，希望矿井在部落第一次大战期间席卷暴风城的时候被废弃。现在迪菲亚兄弟会的人占据了那里并将这个黑暗的通道转变成他们的避难所。据说那些盗贼已经劝说了聪明的地精帮助他们在矿井的深处建造一些可怕的东西——但是没有人知道这是真的还是假的。有传言说，死亡矿井的入口在安宁的月溪镇中。"
 Inst1Caption = "死亡矿井"
 Inst1QAA = "9 个任务 2TW" -- 联盟任务数
-Inst1QAH = "2 个任务 2TW" -- 部落任务数
+Inst1QAH = "3 个任务 3TW" -- 部落任务数
 
 --Quest 1 Alliance
 Inst1Quest1 = "1. 红色丝质面罩" -- 214
@@ -287,7 +287,7 @@ Inst1Quest1_HORDE_Level = "18"
 Inst1Quest1_HORDE_Attain = "16"
 Inst1Quest1_HORDE_Aim = "将原型粉碎机X0-1原理图带给乌雷克斯·奥兹尔纳特。"
 Inst1Quest1_HORDE_Location = "乌雷克斯·奥兹尔纳特 (杜隆塔尔 - 激水港; 58,26)"
-Inst1Quest1_HORDE_Note = "!!! 目前任务存在bug。有时任务物品根本不会掉落。"..WHITE.."\n斯尼德掉落原型粉碎机X0-1原理图，"..YELLOW.."[3]"..WHITE.." or "..YELLOW.."[6]"..WHITE..".\n可以确认斯尼德会掉落任务物品，但不是100%的掉落几率。"
+Inst1Quest1_HORDE_Note = ""..RED.."!!!目前这个任务有BUG。有时候任务物品可能完全不掉落。"..WHITE.."\n斯尼德或者范克里夫会掉落原型粉碎机X0-1原理图"..YELLOW.."[3]"..WHITE.."或者"..YELLOW.."[6]"..WHITE..".\n可以确认斯尼德有掉落任务物品，但并非100%掉落机率。"
 Inst1Quest1_HORDE_Prequest = "无"
 Inst1Quest1_HORDE_Folgequest = "无"
 --
@@ -306,12 +306,24 @@ Inst1Quest2_HORDE_Folgequest = "无"
 --
 Inst1Quest2name1_HORDE = "格雷森的帽子"
 
+--Quest 3 Horde
+Inst1Quest3_HORDE = "(TW)3. 部落防御者之斧" -- 39998
+Inst1Quest3_HORDE_Level = "18"
+Inst1Quest3_HORDE_Attain = "15"
+Inst1Quest3_HORDE_Aim = "把一块偷来的墓碑带给十字路口的纳加尔·戴西耶。"
+Inst1Quest3_HORDE_Location = "比尔吉特·克兰斯顿 <传送门训练师> (雷霆崖)"
+Inst1Quest3_HORDE_Note = "你在纳加尔·戴西耶 (十字路口 "..YELLOW.."51.2,29.1"..WHITE..")那里接到这个任务链的任务。\n这个任务"..RED.."只会把你传送到西部荒野"..WHITE.."。你可以完成这个任务并在完成任务链后获得奖励，或者用它作为西部荒野的传送任务重复接受。"
+Inst1Quest3_HORDE_Prequest = "部落防御者之斧" -- 39994, 39995, 39996, 39997
+Inst1Quest3_HORDE_Folgequest = "部落防御者之斧" -- 39999
+--
+Inst1Quest3name1_HORDE = "涡轮增压无晃动嘶嘶声磁盘" -- 40065
+
 
 --------------- INST2 - Wailing Caverns (WC) ---------------
 Inst2Story = "最近一个名叫纳拉雷克斯的暗夜精灵德鲁伊在贫瘠之地中的地下发现了一个错综复杂的洞穴网。这个被称作“哀嚎洞穴”的地方有很多的蒸汽缝隙，所以当蒸气喷射的时候发出的声音就犹如哀嚎一般，其因此而得名。纳拉雷克斯可以利用洞穴中的温泉来恢复贫瘠之地的生态，让这里重新获得生机——但是这样做需要吸收传说中的翡翠梦境的能量。一旦和翡翠梦境相连接，德鲁伊的视线中就变成了一场噩梦。不久之后，哀嚎洞穴开始变化——洞中的水开始腐化——曾经温顺的生物开始变成狂暴，致命的捕食者。据说纳拉雷克斯自己还居住在这个迷宫的最深处，他被翡翠梦境的边缘所困扰着。即使他以前的随从也被他们的主人所经历的噩梦所腐化——他们都变成了邪恶的尖牙德鲁伊。"
 Inst2Caption = "哀嚎洞穴"
 Inst2QAA = "7 个任务 2TW"
-Inst2QAH = "7 个任务"
+Inst2QAH = "8 个任务 1TW"
 
 --Quest 1 Alliance
 Inst2Quest1 = "1. 变异皮革" --1486
@@ -346,7 +358,6 @@ Inst2Quest3_Location = "麦伯克·米希瑞克斯（贫瘠之地 - 棘齿城; "
 Inst2Quest3_Note = "此任务的前导任务也是在麦伯克·米希瑞克斯这儿接到的。\n软浆怪掉落香精。"
 Inst2Quest3_Prequest = "迅猛龙角" -- 865
 Inst2Quest3_Folgequest = "无"
-
 -- No Rewards for this quest
 
 --Quest 4 Alliance
@@ -490,6 +501,18 @@ Inst2Quest7_HORDE_Folgequest = "在噩梦中（在雷霆崖结束）" -- 3369
 Inst2Quest7name1_HORDE = Inst2Quest5name1
 Inst2Quest7name2_HORDE = Inst2Quest5name2
 
+--Quest 8 Horde
+Inst2Quest8_HORDE = "(TW)8. 奥术武器" -- 80312
+Inst2Quest8_HORDE_Level = "18"
+Inst2Quest8_HORDE_Attain = "14"
+Inst2Quest8_HORDE_Aim = "带给乔克加洛克5块月触木"..YELLOW.."垃圾"..WHITE.."，一块巨蛇水晶，以及一份来自哀嚎洞穴的常变精华。"
+Inst2Quest8_HORDE_Location = "乔克加洛克 <石槌氏族> (在贫瘠之地的怒水河岸上; "..YELLOW.."62.4,10.8"..WHITE..")"
+Inst2Quest8_HORDE_Note = ""..YELLOW.."只限法师。"..WHITE.." 可以从乌瑞达 <法师训练师>(奥格瑞玛)开始任务'掌握奥术'的任务链。\n月触木你可以从 "..YELLOW.."垃圾"..WHITE.."中找到，巨蛇水晶从瑟芬迪斯 <毒牙领主>"..YELLOW.."[7]"..WHITE.."那里得到，常变精华从皮萨斯 <毒牙领主>"..YELLOW.."[5]"..WHITE.."那里得到。"
+Inst2Quest8_HORDE_Prequest = "掌握奥术" -- 80311
+Inst2Quest8_HORDE_Folgequest = "无"
+--
+Inst2Quest8name1_HORDE = "奥术之路法杖" -- 80860
+Inst2Quest8name2_HORDE = "织法者匕首" -- 80861
 
 
 --------------- INST3 - Ragefire Chasm (RFC) ---------------
@@ -545,7 +568,6 @@ Inst3Quest4_HORDE_Location = "萨尔（奥格瑞玛 - 智慧谷; "..YELLOW.."31,
 Inst3Quest4_HORDE_Note = "你会在"..YELLOW.."[4]"..WHITE.."发现巴扎兰，在"..YELLOW.."[3]"..WHITE.."发现祈求者耶戈什。"
 Inst3Quest4_HORDE_Prequest = "隐藏的敌人" -- 5727
 Inst3Quest4_HORDE_Folgequest = "隐藏的敌人" -- 5729
-
 --
 Inst3Quest4name1_HORDE = "奥格瑞玛之剑"
 Inst3Quest4name2_HORDE = "奥格瑞玛之锤"
@@ -580,7 +602,6 @@ Inst4Quest1_Location = "勘察员雷杜尔（荒芜之地; "..YELLOW.."53,43 "..
 Inst4Quest1_Note = "前导任务始于弄皱的地图（荒芜之地; "..YELLOW.."53,33"..WHITE.."）。\n你可以在进入"..YELLOW.."副本入口地图[1]"..WHITE.."找到铁趾格雷兹。"
 Inst4Quest1_Prequest = "一线希望" -- 720
 Inst4Quest1_Folgequest = "铁趾的护符" -- 722
-
 -- No Rewards for this quest
 
 --Quest 2 Alliance
@@ -592,7 +613,6 @@ Inst4Quest2_Location = "铁趾格雷兹（奥达曼; "..YELLOW.."副本入口地
 Inst4Quest2_Note = "马格雷甘·深影掉落铁趾的护符"..YELLOW.."副本入口地图[2]"..WHITE.."。"
 Inst4Quest2_Prequest = "一线希望" -- 721
 Inst4Quest2_Folgequest = "铁趾的遗愿" -- 723
-
 -- No Rewards for this quest
 
 --Quest 3 Alliance
@@ -604,7 +624,6 @@ Inst4Quest3_Location = "顾问贝尔格拉姆（铁炉堡 - 探险者大厅; "..
 Inst4Quest3_Note = "石板位置在"..YELLOW.."[8]"..WHITE.."。"
 Inst4Quest3_Prequest = "铁趾的遗愿 -> 邪恶的使者" -- 722 -> 762
 Inst4Quest3_Folgequest = "无"
-
 --
 Inst4Quest3name1 = "勇气勋章 "
 
@@ -631,7 +650,6 @@ Inst4Quest5_Location = "勘察员基恩萨·铁环（洛克莫丹 - 铁环挖掘
 Inst4Quest5_Note = "前导任务始于勘察员塔伯斯·雷矛（铁炉堡 - 探险者大厅; "..YELLOW.."74,12"..WHITE.."）。\n雕纹石罐散布于副本前的山洞里。"
 Inst4Quest5_Prequest = "铁环挖掘场需要你！ -> 莫达洛克" -- 707 -> 739
 Inst4Quest5_Folgequest = "无"
-
 --
 Inst4Quest5name1 = "勘察者手套"
 
@@ -726,7 +744,6 @@ Inst4Quest13_Location = "加克（洛克莫丹 - 塞尔萨玛; "..YELLOW.."37,49
 Inst4Quest13_Note = "蘑菇散布于副本各处。"
 Inst4Quest13_Prequest = "荒芜之地的材料" -- 2500
 Inst4Quest13_Folgequest = "无"
-
 --
 Inst4Quest13name1 = "滋补药剂"
 
@@ -764,7 +781,6 @@ Inst4Quest16_Location = "塔贝萨（尘泥沼泽; "..YELLOW.."46,57 "..WHITE.."
 Inst4Quest16_Note = "这个任务只能法师做！\n黑曜石哨兵"..YELLOW.."[5]"..WHITE.."掉落黑曜石能量源。"
 Inst4Quest16_Prequest = "驱除魔鬼" -- 1955
 Inst4Quest16_Folgequest = "法力怒灵" -- 1957
-
 -- No Rewards for this quest
 
 --Quest 17 Alliance
@@ -1146,7 +1162,7 @@ Inst5Quest18_Folgequest = "帮助贾比的行动2 -> 返回螺旋熔丝行动 ->
 Inst5Quest19 = "(TW)19. 暗铁亵渎者" -- 40762
 Inst5Quest19_Level = "60"
 Inst5Quest19_Attain = "55"
-Inst5Quest19_Aim = "我需要从黑石深渊中获取一个岩浆凝结器，你可以在魔像实验室附近找到它"..YELLOW.."[25]"..WHITE.."."
+Inst5Quest19_Aim = "我需要从黑石深渊中获取一个岩浆凝结器，你可以在魔像实验室附近找到它"..YELLOW.."[14]"..WHITE.."."
 Inst5Quest19_Location = "比克斯·螺旋熔丝（塔纳利斯东边的泰尔阿比姆岛）"
 Inst5Quest19_Note = "这个任务需要收集4个物品。\n1) 岩浆凝结器（黑石深渊中的岩浆凝结器箱）\n2) 精巧的奥金桶（黑石塔中的精巧的奥金桶容器）\n3) 熔火碎片（熔火之心中的熔火毁灭者）\n4) 黑铁步枪（由工程师制造）。\n为了完成建造，我还需要炽热核心（3个，从熔火之心中获得）和附魔瑟银锭（10个）。"
 Inst5Quest19_Prequest = "黑铁亵渎者的秘密" --40761
@@ -1988,7 +2004,7 @@ Inst8Quest15_Level = "60"
 Inst8Quest15_Attain = "55"
 Inst8Quest15_Aim = "我需要一个能够承受极高温度的精细奥金桶。它可以在黑石塔下层的深处找到，靠近军需官 "..YELLOW.."[16]"..WHITE.."。"
 Inst8Quest15_Location = "比克斯尔·螺旋桨（塔纳利斯岛东边）"
-Inst8Quest15_Note = "这个任务需要收集4个物品。\n1）熔岩凝结器（黑石深渊中的熔岩凝结器箱）\n2）精细奥金桶（黑石塔中的精细奥金桶容器）\n3）熔火碎片（熔火之心中的熔火毁灭者）\n4）黑铁步枪（由工程师制造）。\n需要在熔火之心中找到炽热核心（x3），以及附魔瑟银锭（x10）。"
+Inst8Quest15_Note = "这个任务需要收集4个物品。\n1) 熔岩凝结器 (在黑石深渊的熔岩凝结器箱子中) \n2) 精细奥金桶 (在黑石塔的精细奥金桶容器中) 这是一个放在房间中间的大箱子上的小箱子。\n3) 熔火碎片 (来自熔火之心的熔岩破坏者)。\n4) 黑铁步枪 (由工程师制造)。\n需要在熔火之心中找到炽热核心（x3），还要附魔瑟银锭(x10)。。"
 Inst8Quest15_Prequest = "黑铁亵渎者的秘密" --40761
 Inst8Quest15_Folgequest = "无"
 --
@@ -2424,7 +2440,7 @@ Inst9Quest5_HORDE_Folgequest = "无"
 Inst9Quest5name1_HORDE = "迅捷皮靴"
 Inst9Quest5name2_HORDE = "瞬击护臂"
 
---Quest6 Horde
+--Quest 6 Horde
 Inst9Quest6_HORDE = "6. 为部落而战！" -- 4974
 Inst9Quest6_HORDE_Level = "60"
 Inst9Quest6_HORDE_Attain = "55"
@@ -5578,7 +5594,6 @@ Inst28Quest1_Location = "布罗哈恩·铁桶（暴风城 - 矮人区; "..YELLOW
 Inst28Quest1_Note = "前导任务在此领取。\n\n石板你在神庙内外里到处都能见到。"
 Inst28Quest1_Prequest = "调查神庙 -> 拉普索迪的故事" -- 1448 -> 1469
 Inst28Quest1_Folgequest = "无"
-
 --
 Inst28Quest1name1 = "守护之符"
 
@@ -5591,7 +5606,6 @@ Inst28Quest2_Location = "玛尔冯·瑞文斯克（塔纳利斯; "..YELLOW.."52,
 Inst28Quest2_Note = "祭坛位于 "..YELLOW.."[1]"..WHITE.."。\n联盟任务线从安吉拉斯·月风（菲拉斯 - 羽月要塞 "..YELLOW.."31.8,45.6"..WHITE.."）的任务“沉没的神庙”开始。\n部落任务线从巫医乌泽里（菲拉斯 - 莫沙彻营地 "..YELLOW.."74.4,43.4"..WHITE.."）的任务“沉没的神庙”开始。"
 Inst28Quest2_Prequest = "石环" -- 3444
 Inst28Quest2_Folgequest = "雕像群的秘密" -- 3447
-
 -- No Rewards for this quest
 
 --Quest 3 Alliance
@@ -5603,7 +5617,6 @@ Inst28Quest3_Location = "玛尔冯·瑞文斯克（塔纳利斯; "..YELLOW.."1".
 Inst28Quest3_Note = "雕像群就在图中"..YELLOW.."[1]"..WHITE.."所示位置，按照地图指示的顺序打开他们。"
 Inst28Quest3_Prequest = "深入神庙" -- 3446
 Inst28Quest3_Folgequest = "无"
-
 --
 Inst28Quest3name1 = "哈卡莱骨灰"
 
@@ -5616,19 +5629,17 @@ Inst28Quest4_Location = "格雷甘·山酒（菲拉斯; "..YELLOW.."45,25"..WHIT
 Inst28Quest4_Note = "前导任务《穆尔金和拉瑞安》开始于穆尔金（安戈洛环形山 - 马绍尔营地; "..YELLOW.."42,9"..WHITE.."）。你可以从阿塔哈卡神庙里的神庙深渊潜伏者、黑暗虫或者融合软泥怪那里得到阿塔莱之雾。"
 Inst28Quest4_Prequest = "穆尔金和拉瑞安 -> 造访格雷甘" -- 4141 -> 4142
 Inst28Quest4_Folgequest = "无"
-
 -- No Rewards for this quest
 
 --Quest 5 Alliance
 Inst28Quest5 = "5. 神灵哈卡（系列任务）" -- 3528
 Inst28Quest5_Level = "53"
-Inst28Quest5_Attain = "42"
+Inst28Quest5_Attain = "40"
 Inst28Quest5_Aim = "将装满的哈卡之卵交给塔纳利斯的叶基亚。"
 Inst28Quest5_Location = "叶基亚（塔纳利斯 - 热砂港; "..YELLOW.."66,22"..WHITE.."）"
 Inst28Quest5_Note = "此系列任务始于《尖啸者的灵魂》（同样在此领取，见"..YELLOW.."[祖儿法拉克]"..WHITE.."）。\n你必须在"..YELLOW.."[3]"..WHITE.."使用哈卡之卵，触发事件。一旦事件开始，敌人会像潮水般涌出来攻击你。其中一些敌人掉落哈卡莱之血。用这些血液熄灭包含哈卡灵魂能量的不灭火焰。当你熄灭所有的火焰时，哈卡的化身就可以进入我们的世界了。"
 Inst28Quest5_Prequest = "尖啸者的灵魂 -> 远古之卵" -- 3520 -> 4787
 Inst28Quest5_Folgequest = "无"
-
 --
 Inst28Quest5name1 = "灰岩头盔"
 Inst28Quest5name2 = "生命之力短剑"
@@ -5668,7 +5679,6 @@ Inst28Quest8_Location = "伊普斯（费伍德森林; "..YELLOW.."42,45"..WHITE.
 Inst28Quest8_Note = "术士职业任务。6小巨魔每只掉一个羽毛。"
 Inst28Quest8_Prequest = "小鬼的要求 -> 奇怪的材料" -- 8419 -> 8421
 Inst28Quest8_Folgequest = "无"
-
 --
 Inst28Quest8name1 = "灵魂收割者"
 Inst28Quest8name2 = "深渊碎片"

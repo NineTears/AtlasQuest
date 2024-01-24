@@ -1,8 +1,8 @@
 ## Interface: 11200
-## Title: |CFF33AAFF[辅助]|RAtlasQuest 副本任务 |cffcccccc[Turtle-WoW]|R
-## Title-zhCN: |CFF33AAFF[辅助]|RAtlasQuest 副本任务 |cffcccccc[Turtle-WoW]|R
-## Notes: AtlasQuest 副本任务 |cffcccccc[Turtle-WoW]|R中文端汉化修复由|cff33ffccNineTears(Wind)|R完成。
-## Notes-zhCN: AtlasQuest 副本任务 |cffcccccc[Turtle-WoW]|R中文端汉化修复由|cff33ffccNineTears(Wind)|R完成。
+## Title: |CFF33AAFFAtlasQuest |R副本任务 |cffff1450[红星1.21]|R
+## Title-zhCN: |CFF33AAFFAtlasQuest |R副本任务 |cffff1450[红星1.21]|R
+## Notes: |CFF33AAFFAtlasQuest |R副本任务 |cffff1450[红星]|R中文端由|cff33ffccNineTears(Wind)|R汉化修复。
+## Notes-zhCN: |CFF33AAFFAtlasQuest |R副本任务 |cffff1450[红星]|R中文端由|cff33ffccNineTears(Wind)|R汉化修复。
 ## Notes-ruRU: Ïîêàçûâàåò çàäàíèÿ äëÿ ïîäçåìåëüÿ.
 ## Notes-deDE: Zeigt die Quests, die es f\195\188r die jeweiligen Instanzen gibt.
 ## Notes-koKR: Shows the Quests for the instance.
@@ -10,11 +10,11 @@
 ## Author:Shahopriest,Nonameby,|cff33ffccNineTears(Wind)|R
 ## Updated by: Shahopriest
 ## CLI by:
-## Version: 4.1.4
+## Version: 4.1.5
 ## X-eMail: m4r3lk4@gmail.com
 ## X-Website: https://forum.turtle-wow.org/viewtopic.php?t=7959
 ## X-Category: MYADDONS_CATEGORY_MAP
-## X-Date: 02.11.2023
+## X-Date: 22.01.2024
 ## X-Help: AtlasQuestHelp
 ## OptionalDeps: Atlas, AlphaMap, myAddOns, AtlasLoot
 ## LoadOnDemand: 0
