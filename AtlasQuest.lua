@@ -450,14 +450,14 @@ function AQ_AtlasOrAlphamap()
            AtlasQuestFrame:SetParent(AtlasFrame);
            if (AQ_ShownSide == "Right" ) then
                AtlasQuestFrame:ClearAllPoints();
-               AtlasQuestFrame:SetPoint("TOP","AtlasFrame", 567, -30); --AtlasQuest right frame position TurtleWOW
+               AtlasQuestFrame:SetPoint("TOP","AtlasFrame", 567, -17); --AtlasQuest right frame position TurtleWOW
            else
                AtlasQuestFrame:ClearAllPoints();
-               AtlasQuestFrame:SetPoint("TOP","AtlasFrame", -556, -30); --AtlasQuest left frame position TurtleWOW
+               AtlasQuestFrame:SetPoint("TOP","AtlasFrame", -556, -17); --AtlasQuest left frame position TurtleWOW
            end
            AtlasQuestInsideFrame:SetParent(AtlasFrame);
            AtlasQuestInsideFrame:ClearAllPoints();
-           AtlasQuestInsideFrame:SetPoint("TOPLEFT","AtlasFrame", 18, -84); --AtlasQuest Description Frame. a little bit lower than AtlasQuest frame so it doesnt cover Atlas Continent and Dungeon menu
+           AtlasQuestInsideFrame:SetPoint("TOPLEFT","AtlasFrame", 18, -70); --AtlasQuest Description Frame. a little bit lower than AtlasQuest frame so it doesnt cover Atlas Continent and Dungeon menu
         elseif ((AlphaMapFrame ~= nil) and (AlphaMapFrame:IsVisible())) then
            AtlasORAlphaMap = "AlphaMap";
            --
@@ -733,7 +733,7 @@ function Atlas_OnShow()
    -- AQ_AtlasOrAlphamap();
    if (AQ_ShownSide == "Right") then
        AtlasQuestFrame:ClearAllPoints();
-       AtlasQuestFrame:SetPoint("TOP","AtlasFrame", 567, -30); --dont know what it is actualy right now
+       AtlasQuestFrame:SetPoint("TOP","AtlasFrame", 567, -17); --dont know what it is actualy right now
   end
   original_Atlas_OnShow(); -- new line #2
 end
@@ -921,7 +921,7 @@ function ChatFrame_OnEvent(event)
             local msg, v, remoteversion = AtlasQuest_strsplit(":", arg1)
             if msg == "AtlasQuest" then
                 local remoteversion = tonumber(remoteversion)
-                if remoteversion > 11200 then remoteversion = 0 end --Block for people using some version from another version of WoW.
+                if remoteversion >= 60000 then remoteversion = 0 end --Block for people using some version from another version of WoW.
                 if v == "VERSION" and remoteversion then
                     if remoteversion > localversion then
                         AtlasQuest_updateavailable = remoteversion
@@ -941,7 +941,7 @@ AtlasQuest_updater:SetScript("OnEvent", function()
     if event == "CHAT_MSG_ADDON" and arg1 == "AtlasQuest" then
         local v, remoteversion = AtlasQuest_strsplit(":", arg2)
         local remoteversion = tonumber(remoteversion)
-        if remoteversion > 11200 then remoteversion = 0 end --Block for people using some version from another version of WoW.
+        if remoteversion >= 60000 then remoteversion = 0 end --Block for people using some version from another version of WoW.
         if v == "VERSION" and remoteversion then
             if remoteversion > localversion then
                 AtlasQuest_updateavailable = remoteversion

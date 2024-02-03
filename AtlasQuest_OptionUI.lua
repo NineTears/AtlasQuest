@@ -106,7 +106,7 @@ end
 function AQRIGHTOption_OnClick()
      if ((AtlasFrame ~= nil) and (AtlasORAlphaMap == "Atlas")) then
        AtlasQuestFrame:ClearAllPoints();
-		AtlasQuestFrame:SetPoint("TOP","AtlasFrame", 567, -30); --AtlasQuest right frame position when you change position regarding Atlas Addon by clicking the button
+		AtlasQuestFrame:SetPoint("TOP","AtlasFrame", 567, -17); --AtlasQuest right frame position when you change position regarding Atlas Addon by clicking the button
      elseif (AtlasORAlphaMap == "AlphaMap") then
        AtlasQuestFrame:ClearAllPoints();
        AtlasQuestFrame:SetPoint("TOP","AlphaMapFrame", 400, -107);
@@ -127,7 +127,7 @@ end
 function AQLEFTOption_OnClick()
     if ((AtlasFrame ~= nil) and (AtlasORAlphaMap == "Atlas") and ( AQ_ShownSide == "Right") ) then
        AtlasQuestFrame:ClearAllPoints();
-		AtlasQuestFrame:SetPoint("TOP","AtlasFrame", -556, -30); --AtlasQuest left frame position when you change position regarding Atlas Addon by clicking the button
+		AtlasQuestFrame:SetPoint("TOP","AtlasFrame", -556, -17); --AtlasQuest left frame position when you change position regarding Atlas Addon by clicking the button
      elseif ((AtlasORAlphaMap == "AlphaMap") and ( AQ_ShownSide == "Right") ) then
        AtlasQuestFrame:ClearAllPoints();
        AtlasQuestFrame:SetPoint("TOPLEFT","AlphaMapFrame", -195, -107);
