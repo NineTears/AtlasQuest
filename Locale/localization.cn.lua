@@ -3073,7 +3073,7 @@ Inst12Quest21_Level = "60"
 Inst12Quest21_Attain = "58"
 Inst12Quest21_Aim = "在"..YELLOW.."[艾萨拉]"..WHITE.."的峭壁击碎者身上收集一个绑定碎片，从"..YELLOW.."[厄运之槌西]"..WHITE.."的秘法洪流中获得奥术过载棱镜，从"..YELLOW.."[沉没的神庙]"..WHITE.."的沉睡绿龙身上收集一个沉睡者的碎片，还需要一根奥金棒。将收集到的物品带给悲伤沼泽的伊萨里奥斯。"
 Inst12Quest21_Location = "拉拉修斯（海加尔山 - 诺达纳尔；"..YELLOW.."[81.6,27.7]"..WHITE.." 一只绿色龙人）"
-Inst12Quest21_Note = "在环绕着"..YELLOW.."[6]"..WHITE.."的圈内，秘法洪流的元素生物会掉落过载的奥术过载棱镜。完成这个任务线后，你将获得项链，并能够进入海加尔山的团队副本翡翠圣境。"
+Inst12Quest21_Note = "在环绕着"..YELLOW.."[6]"..WHITE.."的圈内，秘法洪流的元素生物会掉落过载的奥术过载棱镜。完成这个任务线后，你将获得项链，并能够进入海加尔山的团队副本翡翠圣殿。"
 Inst12Quest21_Prequest = "寐入梦境I -> 寐入梦境II" --40957, 40958
 Inst12Quest21_Folgequest = "寐入梦境IV - VI" --40960, 40961, 40962
 --
@@ -5812,7 +5812,7 @@ Inst28Quest18_Level = "60"
 Inst28Quest18_Attain = "58"
 Inst28Quest18_Aim = "从"..YELLOW.."[艾萨拉]"..WHITE.."的峭壁击碎者收集一个束缚碎片，从"..YELLOW.."[厄运之槌西]"..WHITE.."的秘法洪流收集一个奥术过载棱镜，从"..YELLOW.."[沉没的神庙]"..WHITE.."的沉睡绿龙身上收集一个沉睡者的碎片，还需要一根奥金棒。将收集到的物品带给悲伤沼泽的伊萨里奥斯。"
 Inst28Quest18_Location = "拉拉修斯（海加尔山 - 诺达纳尔；"..YELLOW.."[81.6,27.7]"..WHITE.." 一只绿色龙人）"
-Inst28Quest18_Note = "编织者 "..YELLOW.."[6]"..WHITE.." 是4只龙中的一只，掉落沉睡者的碎片，杀死预言者贾玛兰后才会出现 "..YELLOW.."[4]"..WHITE.."。清理6个阳台 "..BLUE.."[C]"..WHITE.." 后，通往预言者的屏障将消失。\n完成这个任务线后，你将获得项链，并能够进入海加尔山的副本团队副本翡翠圣境。"
+Inst28Quest18_Note = "编织者 "..YELLOW.."[6]"..WHITE.." 是4只龙中的一只，掉落沉睡者的碎片，杀死预言者贾玛兰后才会出现 "..YELLOW.."[4]"..WHITE.."。清理6个阳台 "..BLUE.."[C]"..WHITE.." 后，通往预言者的屏障将消失。\n完成这个任务线后，你将获得项链，并能够进入海加尔山的副本团队副本翡翠圣殿。"
 Inst28Quest18_Prequest = "寐入梦境 I -> 寐入梦境 II" --40957, 40958
 Inst28Quest18_Folgequest = "寐入梦境IV - VI" --40960, 40961, 40962
 --
@@ -6805,8 +6805,8 @@ Inst39Quest3name4_HORDE = "洛鲁克的帽子" -- 60216
 
 
 --------------- INST40 - Hateforge Quarry (HQ) ---------------
-Inst40Story = "憎炉采掘场是位于燃烧平原的一个副本地下城。隐藏在燃烧平原东南墙壁的憎炉采掘场是黑铁矮人寻找新武器以对抗敌人的最新努力。这个看似无害的石场隐藏着一个阴险的洞穴，影铸矮人在那里策划着对所有反对他们的人的新阴谋。"
-Inst40Caption = "憎炉采掘场"
+Inst40Story = "仇恨熔炉采石场是位于燃烧平原的一个副本地下城。隐藏在燃烧平原东南墙壁的仇恨熔炉采石场是黑铁矮人寻找新武器以对抗敌人的最新努力。这个看似无害的石场隐藏着一个阴险的洞穴，影铸矮人在那里策划着对所有反对他们的人的新阴谋。"
+Inst40Caption = "仇恨熔炉采石场"
 Inst40QAA = "5 个任务 5TW"
 Inst40QAH = "5 个任务 5TW"
 
@@ -6814,9 +6814,9 @@ Inst40QAH = "5 个任务 5TW"
 Inst40Quest1 = "(TW)1. 竞争对手的存在" -- 40458
 Inst40Quest1_Level = "54"
 Inst40Quest1_Attain = "47"
-Inst40Quest1_Aim = "找出憎炉采掘场中正在挖掘的东西。"
+Inst40Quest1_Aim = "找出仇恨熔炉采石场中正在挖掘的东西。"
 Inst40Quest1_Location = "监工油拳 <瑟银兄弟会>（灼热峡谷 - 瑟银哨站；"..YELLOW.."38.1,27.0"..WHITE.."）。"
-Inst40Quest1_Note = "憎炉采掘场化学家掉落炽炉酿酒瓶，用于任务。"
+Inst40Quest1_Note = "仇恨熔炉采石场化学家掉落炽炉酿酒瓶，用于任务。"
 Inst40Quest1_Prequest = "无"
 Inst40Quest1_Folgequest = "无"
 -- No Rewards for this quest
@@ -6825,7 +6825,7 @@ Inst40Quest1_Folgequest = "无"
 Inst40Quest2 = "(TW)2. 矿工工会叛变 II" -- 40468
 Inst40Quest2_Level = "50"
 Inst40Quest2_Attain = "45"
-Inst40Quest2_Aim = "在憎炉采掘场击败20名炽炉矿工，然后回到燃烧平原的黑石小径找莫格里姆·火矛。"
+Inst40Quest2_Aim = "在仇恨熔炉采石场击败20名炽炉矿工，然后回到燃烧平原的黑石小径找莫格里姆·火矛。"
 Inst40Quest2_Location = "莫格里姆·火矛（燃烧平原 - 黑石小径；"..YELLOW.."75.6,68.3"..WHITE.."）。"
 Inst40Quest2_Note = "任务线从莱德甘·深焰那里开始，接任务“赢得奥尔瓦克的信任”（燃烧平原 - 黑石小径；"..YELLOW.."76.1,67.6"..WHITE.."）。"
 Inst40Quest2_Prequest = "赢得奥尔瓦克的信任 -> 听奥尔瓦克的故事 -> 斯特恩洛克的藏宝地 -> 矿工工会的叛乱"
@@ -6851,7 +6851,7 @@ Inst40Quest3name3 = "火矛的幸运裤子" -- 60667
 Inst40Quest4 = "(TW)4. 仇恨熔炉啤酒的传闻" -- 40490
 Inst40Quest4_Level = "54"
 Inst40Quest4_Attain = "45"
-Inst40Quest4_Aim = "深入憎炉采掘场，找到一瓶黑铁瓶和炽炉化学文档 "..YELLOW.."[不知道具体在哪里]"..WHITE.."，然后回到燃烧平原的摩根斯岗哨找瓦拉格·暗须。"
+Inst40Quest4_Aim = "深入仇恨熔炉采石场，找到一瓶黑铁瓶和炽炉化学文档 "..YELLOW.."[不知道具体在哪里]"..WHITE.."，然后回到燃烧平原的摩根斯岗哨找瓦拉格·暗须。"
 Inst40Quest4_Location = "瓦拉格·暗须（燃烧平原 - 摩根斯岗哨；"..YELLOW.."85.1,67.6"..WHITE.."）。"
 Inst40Quest4_Note = "炽炉化学师掉落黑铁瓶用于任务。"
 Inst40Quest4_Prequest = "无"
@@ -6864,10 +6864,10 @@ Inst40Quest4name2 = "瓦拉格的爪子" -- 60699
 Inst40Quest5 = "(TW)5. 攻击仇恨熔炉" -- 40489
 Inst40Quest5_Level = "57"
 Inst40Quest5_Attain = "45"
-Inst40Quest5_Aim = "进入憎炉采掘场，清除深处的暮光之锤势力，完成后回到铁炉堡找玛格尼·铜须国王。"
+Inst40Quest5_Aim = "进入仇恨熔炉采石场，清除深处的暮光之锤势力，完成后回到铁炉堡找玛格尼·铜须国王。"
 Inst40Quest5_Location = "参议员石腰（燃烧平原 - 摩根斯岗哨；"..YELLOW.."85.2,67.9"..WHITE.."）。"
-Inst40Quest5_Note = "击败最后的首领哈格什·末日召唤者 "..YELLOW.."[5]"..WHITE.."。任务线从同一任务发放者处开始，接任务“调查憎炉采掘场”。"
-Inst40Quest5_Prequest = "调查憎炉采掘场 -> 炽炉报告 -> 国王的回应"
+Inst40Quest5_Note = "击败最后的首领哈格什·末日召唤者 "..YELLOW.."[5]"..WHITE.."。任务线从同一任务发放者处开始，接任务“调查仇恨熔炉采石场”。"
+Inst40Quest5_Prequest = "调查仇恨熔炉采石场 -> 炽炉报告 -> 国王的回应"
 Inst40Quest5_Folgequest = "无"
 --
 Inst40Quest5name1 = "格罗比的王冠" -- 60694
@@ -6916,7 +6916,7 @@ Inst40Quest3name3_HORDE = Inst40Quest3name3 -- 60667
 Inst40Quest4_HORDE = "(TW)4. 狩猎工程师菲格斯" -- 40539
 Inst40Quest4_HORDE_Level = "55"
 Inst40Quest4_HORDE_Attain = "48"
-Inst40Quest4_HORDE_Aim = "在憎炉采掘场击败工程师费格尔斯 "..YELLOW.."[2]"..WHITE.."，为狼女卡塔拉完成任务。"
+Inst40Quest4_HORDE_Aim = "在仇恨熔炉采石场击败工程师费格尔斯 "..YELLOW.."[2]"..WHITE.."，为狼女卡塔拉完成任务。"
 Inst40Quest4_HORDE_Location = "狼女卡塔拉（燃烧平原 - 卡弗恩要塞；"..YELLOW.."89.4,24.5"..WHITE.."，燃烧平原的东北角）。"
 Inst40Quest4_HORDE_Note = ""
 Inst40Quest4_HORDE_Prequest = "奇怪的事情" -- 40538
@@ -6931,7 +6931,7 @@ Inst40Quest4name4_HORDE = "加尔隆的腰带" -- 60774
 Inst40Quest5_HORDE = "(TW)5. 新与旧 IV" -- 40504
 Inst40Quest5_HORDE_Level = "57"
 Inst40Quest5_HORDE_Attain = "45"
-Inst40Quest5_HORDE_Aim = "进入憎炉采掘场，清除卡弗恩要塞内的暮光之锤势力，完成后回到卡弗恩。"
+Inst40Quest5_HORDE_Aim = "进入仇恨熔炉采石场，清除卡弗恩要塞内的暮光之锤势力，完成后回到卡弗恩。"
 Inst40Quest5_HORDE_Location = "卡弗恩（燃烧平原 - 卡弗恩要塞；"..YELLOW.."90.1,22.5"..WHITE.."，燃烧平原的东北角）。"
 Inst40Quest5_HORDE_Note = "击败最后的首领哈格什·末日召唤者 "..YELLOW.."[5]"..WHITE.."。任务线从议员瓦尔格克（燃烧平原 - 卡弗恩要塞；"..YELLOW.."90.0,22.7"..WHITE.."，燃烧平原的东北角）处开始，接任务“新与旧”。"
 Inst40Quest5_HORDE_Prequest = "新与旧 -> 新与旧 II -> 新与旧 III" -- 40501, 40502, 40503
@@ -6942,8 +6942,8 @@ Inst40Quest5name2_HORDE = "黑曜石宝石项链" -- 60735
 Inst40Quest5name3_HORDE = "战斗大师头盔" -- 60736
 
 --------------- INST41 - Karazhan Crypt (KC) -------------
-Inst41Story = "卡拉赞地穴是位于燃烧平原的一个副本地下城。在这个荒凉的地下墓穴中，有某种力量扭曲着死者的灵魂，找到源头，让死者再次安息。"
-Inst41Caption = "卡拉赞地穴"
+Inst41Story = "卡拉赞墓穴是位于燃烧平原的一个副本地下城。在这个荒凉的地下墓穴中，有某种力量扭曲着死者的灵魂，找到源头，让死者再次安息。"
+Inst41Caption = "卡拉赞墓穴"
 Inst41QAA = "1 个任务 1TW"
 Inst41QAH = "1 个任务 1TW"
 
@@ -6951,7 +6951,7 @@ Inst41QAH = "1 个任务 1TW"
 Inst41Quest1 = "(TW)1. 卡拉赞之谜 VII" -- 40317
 Inst41Quest1_Level = "60"
 Inst41Quest1_Attain = "58"
-Inst41Quest1_Aim = "进入卡拉赞地穴，击败看守者阿拉鲁斯，为迪斯塔尔魔导师在逆风小径完成任务。"
+Inst41Quest1_Aim = "进入卡拉赞墓穴，击败看守者阿拉鲁斯，为迪斯塔尔魔导师在逆风小径完成任务。"
 Inst41Quest1_Location = "迪斯塔尔魔导师（逆风小径 "..YELLOW.."52.4,34.3"..WHITE.."，逆风小径的东北部，从东部T字路口向北）。"
 Inst41Quest1_Note = "击败最后的首领阿拉鲁斯 "..YELLOW.."[7]"..WHITE.."。任务线从同一NPC迪斯塔尔魔导师在逆风小径开始。完成任务线的第6部分后，你将获得打开入口门的钥匙。"
 Inst41Quest1_Prequest = "卡拉赞之谜 VI" -- 40316
@@ -6966,7 +6966,7 @@ Inst41Quest1name3 = "奥术强化戒指" -- 60465
 Inst41Quest1_HORDE = "(TW)1. 卡拉赞深渊 VII" -- 40310
 Inst41Quest1_HORDE_Level = "60"
 Inst41Quest1_HORDE_Attain = "58"
-Inst41Quest1_HORDE_Aim = "进入卡拉赞地穴，击败看守者阿拉鲁斯，为斯通纳德的科尔甘完成任务。"
+Inst41Quest1_HORDE_Aim = "进入卡拉赞墓穴，击败看守者阿拉鲁斯，为斯通纳德的科尔甘完成任务。"
 Inst41Quest1_HORDE_Location = "科尔甘（悲伤沼泽 - 斯通纳德; "..YELLOW.."44,4,54.6"..WHITE.."）。"
 Inst41Quest1_HORDE_Note = "击败最后的首领阿拉鲁斯 "..YELLOW.."[7]"..WHITE.."。任务线从同一NPC科尔甘在斯通纳德开始。完成任务线的第6部分后，你将获得打开入口门的钥匙。"
 Inst41Quest1_HORDE_Prequest = "卡拉赞深渊 VI" -- 40309
@@ -7724,8 +7724,8 @@ Inst45Quest17name3_HORDE = Inst45Quest17name3
 Inst45Quest17name4_HORDE = Inst45Quest17name4
 
 --------------- INST46 - Emerald Sanctum (ES) ----------- -- TurtleWOW
-Inst46Story = "翡翠圣境是位于海加尔山的副本团队副本。一股腐败之雾笼罩着翡翠梦境，扭曲了即使是最高贵纯洁的道德和意识。被腐化的唤醒者正准备发出更多的唤醒信号；如果不加阻止，他的同类将在艾泽拉斯上肆意横行。"
-Inst46Caption = "翡翠圣境"
+Inst46Story = "翡翠圣殿是位于海加尔山的副本团队副本。一股腐败之雾笼罩着翡翠梦境，扭曲了即使是最高贵纯洁的道德和意识。被腐化的唤醒者正准备发出更多的唤醒信号；如果不加阻止，他的同类将在艾泽拉斯上肆意横行。"
+Inst46Caption = "翡翠圣殿"
 Inst46QAA = "2 个任务 2TW"
 Inst46QAH = "2 个任务 2TW"
 
