@@ -1131,15 +1131,15 @@ Inst7Quest6ID2_HORDE = "16887"
 --------------- INST8 - Lower Blackrock Spire (LBRS) ---------------
 
 --Quest 1 Alliance
-Inst8Quest1Rewardtext = AQDiscription_REWARD..WHITE.."1"..AQDiscription_OR..WHITE.."2"
+Inst8Quest1Rewardtext = AQNoReward
 --ITEM1
-Inst8Quest1ITC1 = Itemc4;
-Inst8Quest1description1 = AQITEM_BACK
-Inst8Quest1ID1 = "20218"
+--Inst8Quest1ITC1 = Itemc4;
+--Inst8Quest1description1 = AQITEM_BACK
+--Inst8Quest1ID1 = "20218"
 --ITEM2
-Inst8Quest1ITC2 = Itemc4;
-Inst8Quest1description2 = AQITEM_BACK
-Inst8Quest1ID2 = "20219"
+--Inst8Quest1ITC2 = Itemc4;
+--Inst8Quest1description2 = AQITEM_BACK
+--Inst8Quest1ID2 = "20219"
 
 --Quest 2 Alliance
 Inst8Quest2Rewardtext = AQDiscription_REWARD..WHITE.."1"
