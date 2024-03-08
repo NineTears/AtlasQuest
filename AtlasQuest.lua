@@ -979,6 +979,7 @@ AtlasQuest_updater:SetScript("OnEvent", function()
     end
   end)
 ]]
+--[[禁用版本检查，降低内存消耗
 --Update announcing code taken from pfUI
 local major, minor, fix = AtlasQuest_strsplit(".", tostring(GetAddOnMetadata("AtlasQuest", "Version")))
 
@@ -1056,3 +1057,4 @@ AtlasQuest_updater:SetScript("OnEvent", function()
       end
     end
   end)
+]]
