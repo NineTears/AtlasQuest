@@ -6473,7 +6473,7 @@ Inst32Quest1_Level = "26"
 Inst32Quest1_Attain = "20"
 Inst32Quest1_Aim = "将尖端机器人的存储器核心交给铁炉堡的工匠大师欧沃斯巴克。"
 Inst32Quest1_Location = "工匠大师欧沃斯巴克（铁炉堡 - 侏儒区; "..YELLOW.."69,50 "..WHITE.."）"
-Inst32Quest1_Note = "你可以在萨尔努修士（暴风城 - 教堂广场; "..YELLOW.."40,30"..WHITE.."）那儿接到此任务的前导任务。\n在你进入副本之前，后门附近"..YELLOW.."副本入口地图[4]"..WHITE.."，可以找到尖端机器人。"
+Inst32Quest1_Note = "你可以在萨尔努修士（暴风城 - 教堂广场; "..YELLOW.."40,30"..WHITE.."）那儿接到此任务的前导任务。\n在你进入副本之前，后门附近"..WHITE.."，可以找到尖端机器人。"
 Inst32Quest1_Prequest = "工匠大师欧沃斯巴克" -- 2923
 Inst32Quest1_Folgequest = "无"
 -- No Rewards for this quest
