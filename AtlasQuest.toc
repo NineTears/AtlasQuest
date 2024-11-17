@@ -7,7 +7,7 @@
 ## Notes-deDE: Zeigt die Quests, die es f\195\188r die jeweiligen Instanzen gibt.
 ## Notes-koKR: Shows the Quests for the instance.
 ## Notes-esES: Muestra las Misiones para la instancia.
-## Author:Shahopriest,Nonameby,|cff33ffccNineTears(Wind)|R
+## Author:Shahopriest, Nonameby, Wind, Sunelegy
 ## Updated by: Shahopriest
 ## CLI by:
 ## Version: 4.1.5

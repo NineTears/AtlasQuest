@@ -21,7 +21,7 @@
 	
 --]]
 
--- Wind汉化修复Turtle-WOW-zhCN端
+-- Wind&Sunelegy|R汉化修复Turtle-WOW-zhCN端
 -- https://github.com/NineTears/AtlasQuest-Turtle-zhCN
 -- Last update: 2024-01-24
 
@@ -478,7 +478,7 @@ Inst2Quest5name3_HORDE = Inst2Quest4name3
 Inst2Quest6_HORDE = "6. 尖牙德鲁伊（连续任务）" -- 914
 Inst2Quest6_HORDE_Level = "22"
 Inst2Quest6_HORDE_Attain = "11"
-Inst2Quest6_HORDE_Aim = "将考布莱恩宝石、安娜科德拉宝石、皮萨斯宝石和瑟芬迪斯宝石交给雷霆崖的纳拉·蛮鬃。"
+Inst2Quest6_HORDE_Aim = "将考布莱恩领主宝石、安娜科德拉女士宝石、皮萨斯领主宝石和瑟芬迪斯领主宝石交给雷霆崖的纳拉·蛮鬃。"
 Inst2Quest6_HORDE_Location = "纳拉·蛮鬃（雷霆崖 - 长者高地; "..YELLOW.."75,31 "..WHITE.."）"
 Inst2Quest6_HORDE_Note = "系列任务始于哈缪尔·符文图腾（雷霆崖 - 长者高地; "..YELLOW.."78,28"..WHITE.."）\n掉落宝石的4个德鲁伊位于"..YELLOW.."[2]"..WHITE..", "..YELLOW.."[3]"..WHITE..", "..YELLOW.."[5]"..WHITE..", "..YELLOW.."[7]"..WHITE.."。"
 Inst2Quest6_HORDE_Prequest = "贫瘠之地绿洲 -> 纳拉·蛮鬃" -- 886 -> 1490
@@ -506,7 +506,7 @@ Inst2Quest8_HORDE_Level = "18"
 Inst2Quest8_HORDE_Attain = "14"
 Inst2Quest8_HORDE_Aim = "带给乔克加洛克5块月触木"..YELLOW.."垃圾"..WHITE.."，一块巨蛇水晶，以及一份来自哀嚎洞穴的常变精华。"
 Inst2Quest8_HORDE_Location = "乔克加洛克 <石槌氏族> (在贫瘠之地的怒水河岸上; "..YELLOW.."62.4,10.8"..WHITE..")"
-Inst2Quest8_HORDE_Note = ""..YELLOW.."只限法师。"..WHITE.." 可以从乌瑞达 <法师训练师>(奥格瑞玛)开始任务'掌握奥术'的任务链。\n月触木你可以从 "..YELLOW.."垃圾"..WHITE.."中找到，巨蛇水晶从瑟芬迪斯 <毒牙领主>"..YELLOW.."[7]"..WHITE.."那里得到，常变精华从皮萨斯 <毒牙领主>"..YELLOW.."[5]"..WHITE.."那里得到。"
+Inst2Quest8_HORDE_Note = ""..YELLOW.."只限法师。"..WHITE.." 可以从乌瑞达 <法师训练师>(奥格瑞玛)开始任务'掌握奥术'的任务链。\n月触木你可以从 "..YELLOW.."垃圾"..WHITE.."中找到，巨蛇水晶从瑟芬迪斯领主 <毒牙领主>"..YELLOW.."[7]"..WHITE.."那里得到，常变精华从皮萨斯领主 <毒牙领主>"..YELLOW.."[5]"..WHITE.."那里得到。"
 Inst2Quest8_HORDE_Prequest = "掌握奥术" -- 80311
 Inst2Quest8_HORDE_Folgequest = "无"
 --
@@ -6461,7 +6461,7 @@ Inst31Quest4name6_HORDE = Inst31Quest4name6
 
 
 --------------- INST32 - Gnomeregan (Gnomer) ---------------
-Inst32Story = "位于丹莫洛的科技奇迹城市诺莫瑞根世代以来都是侏儒的主城。最近，一群邪恶的变异食鄂怪侵入了包括侏儒主城在内的多处丹莫洛地区。为了做出殊死一搏来干掉入侵的食腭怪，大工匠梅卡托克命令打开城市中的紧急辐射水箱。侏儒在等待那些食腭怪死亡或者逃跑的同时也在寻找躲避辐射的方法。不幸的是，虽然食腭怪在经过辐射之后感染了毒性——但是它们的攻击没有停止，也没有丝毫的减弱。那些没有被辐射杀死的侏儒被迫逃离，他们在附近的矮人城市铁炉堡找到了安身之处。大工匠梅卡托克组建了一个智囊团来商议重新夺回他们挚爱的城市的计划。传说大工匠梅卡托克曾经最信任的顾问，麦克尼尔·瑟玛普拉格被判了他的人民并纵容了这次入侵的发生。现在，他的心智，麦克尼尔·瑟玛普拉格还留在诺莫瑞根中——他在继续筹划着自己黑暗的计划并成为这座城市新的科技领主。"
+Inst32Story = "位于丹莫洛的科技奇迹城市诺莫瑞根世代以来都是侏儒的主城。最近，一群邪恶的变异食鄂怪侵入了包括侏儒主城在内的多处丹莫洛地区。为了做出殊死一搏来干掉入侵的食腭怪，大工匠梅卡托克命令打开城市中的紧急辐射水箱。侏儒在等待那些食腭怪死亡或者逃跑的同时也在寻找躲避辐射的方法。不幸的是，虽然食腭怪在经过辐射之后感染了毒性——但是它们的攻击没有停止，也没有丝毫的减弱。那些没有被辐射杀死的侏儒被迫逃离，他们在附近的矮人城市铁炉堡找到了安身之处。大工匠梅卡托克组建了一个智囊团来商议重新夺回他们挚爱的城市的计划。传说大工匠梅卡托克曾经最信任的顾问，制造者瑟玛普拉格被判了他的人民并纵容了这次入侵的发生。现在，他的心智，制造者瑟玛普拉格还留在诺莫瑞根中——他在继续筹划着自己黑暗的计划并成为这座城市新的科技领主。"
 Inst32Caption = "诺莫瑞根"
 Inst32QAA = "13 个任务 3TW"
 Inst32QAH = "7 个任务 2TW"
@@ -6553,9 +6553,9 @@ Inst32Quest7name2 = "精灵之翼"
 Inst32Quest8 = "8. 大叛徒" -- 2929
 Inst32Quest8_Level = "35"
 Inst32Quest8_Attain = "25"
-Inst32Quest8_Aim = "到诺莫瑞根去杀掉麦克尼尔·瑟玛普拉格。完成任务之后向大工匠梅卡托克报告。"
+Inst32Quest8_Aim = "到诺莫瑞根去杀掉制造者瑟玛普拉格。完成任务之后向大工匠梅卡托克报告。"
 Inst32Quest8_Location = "大工匠梅卡托克（丹莫罗 - 诺莫瑞根复兴城；"..YELLOW.."24.2,29.7"..WHITE.."）"
-Inst32Quest8_Note = "你可以在"..YELLOW.."[8]"..WHITE.."找到麦克尼尔·瑟玛普拉格。他是诺莫瑞根最后一个Boss。\n在战斗中你必须按下它旁边的按钮阻止他放炸弹。"
+Inst32Quest8_Note = "你可以在"..YELLOW.."[8]"..WHITE.."找到制造者瑟玛普拉格。他是诺莫瑞根最后一个Boss。\n在战斗中你必须按下它旁边的按钮阻止他放炸弹。"
 Inst32Quest8_Prequest = "无"
 Inst32Quest8_Folgequest = "无"
 --
@@ -6654,7 +6654,7 @@ Inst32Quest3_HORDE_Level = "35"
 Inst32Quest3_HORDE_Attain = "25"
 Inst32Quest3_HORDE_Aim = "从诺莫瑞根拿到钻探设备蓝图和麦克尼尔的保险箱密码，把它们交给奥格瑞玛的诺格。"
 Inst32Quest3_HORDE_Location = "诺格（奥格瑞玛 - 荣誉谷; "..YELLOW.."75,25 "..WHITE.."）"
-Inst32Quest3_HORDE_Note = "你可以在"..YELLOW.."[8]"..WHITE.."发现麦克尼尔·瑟玛普拉格。他是诺莫瑞根最后一个Boss。\n在战斗中你必须按下它旁边的按钮阻止他放炸弹。"
+Inst32Quest3_HORDE_Note = "你可以在"..YELLOW.."[8]"..WHITE.."发现制造者瑟玛普拉格。他是诺莫瑞根最后一个Boss。\n在战斗中你必须按下它旁边的按钮阻止他放炸弹。"
 Inst32Quest3_HORDE_Prequest = "无"
 Inst32Quest3_HORDE_Folgequest = "无"
 --
