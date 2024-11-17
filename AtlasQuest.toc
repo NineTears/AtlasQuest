@@ -1,6 +1,6 @@
 ## Interface: 11200
-## Title: |CFF33AAFFAtlasQuest |R副本任务 |cffff1450[1.22]|R
-## Title-zhCN: |CFF33AAFFAtlasQuest |R副本任务 |cffff1450[1.22]|R
+## Title: |CFF33AAFFAtlasQuest |R副本任务 |cffff1450[1.23]|R
+## Title-zhCN: |CFF33AAFFAtlasQuest |R副本任务 |cffff1450[1.23]|R
 ## Notes: |CFF33AAFFAtlasQuest |R副本任务 中文端由|cff33ffccWind&Sunelegy|R汉化修复。
 ## Notes-zhCN: |CFF33AAFFAtlasQuest |R副本任务 中文端由|cff33ffccWind&Sunelegy|R汉化修复。
 ## Notes-ruRU: Ïîêàçûâàåò çàäàíèÿ äëÿ ïîäçåìåëüÿ.
