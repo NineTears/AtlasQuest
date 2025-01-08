@@ -5651,7 +5651,7 @@ Inst32Quest5_Level = "30"
 Inst32Quest5_Attain = "24"
 Inst32Quest5_Aim = "Lleva 12 esencias artificiales a Klockmort Palmalicate a Forjaz."
 Inst32Quest5_Location = "Klockmort Palmalicate (Forjaz - Ciudad Manitas; "..YELLOW.."68,46"..WHITE..")"
-Inst32Quest5_Note = "Obtienes la misión previa de Mathiel (Darnassus - Bancal del Guerrero; "..YELLOW.."59,45"..WHITE.."). No es necesario obtener la misión previa para empezar esta misión.\nConsigues las Esencias artificiales de los Extrapoladores artificiales que están desperdigados por todas las partes de la instancia."
+Inst32Quest5_Note = "Obtienes la misión previa de Mathiel (Darnassus - Bancal del Guerrero; "..YELLOW.."29.6,56.4"..WHITE.."). No es necesario obtener la misión previa para empezar esta misión.\nConsigues las Esencias artificiales de los Extrapoladores artificiales que están desperdigados por todas las partes de la instancia."
 Inst32Quest5_Prequest = "Klockmort Palmalicate" -- 2925
 Inst32Quest5_Folgequest = "Ninguno"
 -- No Rewards for this quest

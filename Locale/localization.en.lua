@@ -6517,8 +6517,8 @@ Inst32Quest5 = "5. 基础模组" -- 2924
 Inst32Quest5_Level = "30"
 Inst32Quest5_Attain = "24"
 Inst32Quest5_Aim = "收集12个基础模组，把它们交给铁炉堡的科劳莫特·钢尺。"
-Inst32Quest5_Location = "科劳莫特·钢尺（丹莫罗 - 诺莫瑞根复兴城；"..YELLOW.."23.6,28"..WHITE.."）"
-Inst32Quest5_Note = "你可以在玛希尔（达纳苏斯 - 战士区; "..YELLOW.."59,45"..WHITE.."）那儿得到此任务的前导任务。\n每个诺莫瑞根的敌人都可能掉落基础模组。"
+Inst32Quest5_Location = "科劳莫特·钢尺（丹莫罗 - 诺莫瑞根复兴城；"..YELLOW.."25.0,30.1"..WHITE.."）"
+Inst32Quest5_Note = "你可以在玛希尔（达纳苏斯 - 战士区; "..YELLOW.."29.6,56.4"..WHITE.."）那儿得到此任务的前导任务。\n每个诺莫瑞根的敌人都可能掉落基础模组。"
 Inst32Quest5_Prequest = "帮助科劳莫特" -- 2925
 Inst32Quest5_Folgequest = "无"
 -- No Rewards for this quest
