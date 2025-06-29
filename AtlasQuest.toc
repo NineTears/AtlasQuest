@@ -1,6 +1,6 @@
 ## Interface: 11200
-## Title: |CFF33AAFFAtlasQuest |R副本任务 |cffff1450[1.24]|R
-## Title-zhCN: |CFF33AAFFAtlasQuest |R副本任务 |cffff1450[1.24]|R
+## Title: |CFF33AAFFAtlasQuest |R副本任务 |cffff1450[1.27]|R
+## Title-zhCN: |CFF33AAFFAtlasQuest |R副本任务 |cffff1450[1.27]|R
 ## Notes: |CFF33AAFFAtlasQuest |R副本任务 中文端由|cff33ffccWind&Sunelegy|R汉化修复。
 ## Notes-zhCN: |CFF33AAFFAtlasQuest |R副本任务 中文端由|cff33ffccWind&Sunelegy|R汉化修复。
 ## Notes-ruRU: Ïîêàçûâàåò çàäàíèÿ äëÿ ïîäçåìåëüÿ.
@@ -10,7 +10,7 @@
 ## Author:Shahopriest, Nonameby, Wind, Sunelegy
 ## Updated by: Shahopriest
 ## CLI by:
-## Version: 4.1.5
+## Version: 4.1.27
 ## X-eMail: m4r3lk4@gmail.com
 ## X-Website: https://forum.turtle-wow.org/viewtopic.php?t=7959
 ## X-Category: MYADDONS_CATEGORY_MAP

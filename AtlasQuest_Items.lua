@@ -149,6 +149,17 @@ Inst1Quest9ITC3 = Itemc3;
 Inst1Quest9description3 = AQITEM_TWOHAND..AQITEM_MACE
 Inst1Quest9ID3 = "60686"
 
+--Quest 10 Alliance
+Inst1Quest10Rewardtext = AQDiscription_REWARD..WHITE.."1"..AQDiscription_OR..WHITE.."2"
+--ITEM1
+Inst1Quest10ITC1 = Itemc3 -- 假设特工斗篷为绿色品质，可按需调整
+Inst1Quest10description1 = AQITEM_BACK	--背部
+Inst1Quest10ID1 = "70239"
+--ITEM2
+Inst1Quest10ITC2 = Itemc3 -- 假设正直镣铐为绿色品质，可按需调整
+Inst1Quest10description2 = AQITEM_WRIST	--护腕
+Inst1Quest10ID2 = "70240"
+
 --Quest 1 Horde
 Inst1Quest1Rewardtext_HORDE = AQDiscription_REWARD..WHITE.."1"..AQDiscription_OR..WHITE.."2"
 --ITEM1
@@ -242,6 +253,16 @@ Inst2Quest7ITC2 = Itemc4;
 Inst2Quest7description2 = AQITEM_TWOHAND..AQITEM_SWORD
 Inst2Quest7ID2 = "51849"
 
+--Quest 8 Alliance
+Inst2Quest8Rewardtext = AQDiscription_REWARD..WHITE.."1"..AQDiscription_OR..WHITE.."2"
+--ITEM1
+Inst2Quest8ITC1 = Itemc2 -- 假设法力药水为白色品质，可按需调整
+Inst2Quest8description1 = AQITEM_POTION	--药水
+Inst2Quest8ID1 = "3827"
+--ITEM2
+Inst2Quest8ITC2 = Itemc2 -- 假设强效治疗药水为白色品质，可按需调整
+Inst2Quest8description2 = AQITEM_POTION	--药水
+Inst2Quest8ID2 = "1710"
 
 --Quest 1 Horde
 Inst2Quest1Rewardtext_HORDE = AQDiscription_REWARD..WHITE.."1"..AQDiscription_OR..WHITE.."2"
@@ -315,6 +336,12 @@ Inst2Quest8ITC2_HORDE = Itemc4;
 Inst2Quest8description2_HORDE = AQITEM_ONEHAND..AQITEM_DAGGER
 Inst2Quest8ID2_HORDE = "80861"
 
+--Quest 9 Horde
+Inst2Quest9Rewardtext_HORDE = AQDiscription_REWARD..WHITE.."1"
+--ITEM1
+Inst2Quest9ITC1_HORDE = Itemc4 -- 假设科卡尔披风为绿色品质，可按需调整
+Inst2Quest9description1_HORDE = AQITEM_BACK
+Inst2Quest9ID1_HORDE = "70224"
 
 --------------- INST3 - Ragefire Chasm (RFC) ---------------
 
@@ -2441,6 +2468,12 @@ Inst17Quest3ITC2 = Itemc4;
 Inst17Quest3description2 = AQITEM_NECK
 Inst17Quest3ID2 = "10824"
 
+--Quest 4 Alliance
+Inst17Quest4Rewardtext = AQDiscription_REWARD..WHITE.."1"
+--ITEM1 
+Inst17Quest4ITC1 = Itemc4 -- 假设华丽秘银手镯图鉴为绿色品质，可按需调整
+Inst17Quest4description1 = AQITEM_PATTERN	--图样
+Inst17Quest4ID1 = "70181" 
 
 --Quest 1 Horde
 Inst17Quest1Rewardtext_HORDE = AQNoReward
@@ -2478,6 +2511,7 @@ Inst17Quest4ITC2_HORDE = Itemc4;
 Inst17Quest4description2_HORDE = AQITEM_NECK
 Inst17Quest4ID2_HORDE = "10824"
 
+--Quest 5 Horde
 Inst17Quest5Rewardtext_HORDE = AQDiscription_REWARD..WHITE.."1"..AQDiscription_OR..WHITE.."2"..AQDiscription_OR..WHITE.."3"
 --ITEM1
 Inst17Quest5ITC1_HORDE = Itemc4;
@@ -2492,7 +2526,12 @@ Inst17Quest5ITC3_HORDE = Itemc4;
 Inst17Quest5description3_HORDE = AQITEM_NECK
 Inst17Quest5ID3_HORDE = "61662"
 
-
+--Quest 6 Horde
+Inst17Quest6Rewardtext_HORDE = AQDiscription_REWARD..WHITE.."1"
+--ITEM1 
+Inst17Quest6ITC1_HORDE = Itemc3 -- 假设华丽秘银手镯图鉴为绿色品质，可按需调整
+Inst17Quest6description1_HORDE = AQITEM_PATTERN	--图样
+Inst17Quest6ID1_HORDE = Inst17Quest4ID1
 --------------- INST18 - Razorfen Kraul (RFK) ---------------
 
 --Quest 1 Alliance
@@ -2706,7 +2745,16 @@ Inst20Quest2ITC3_HORDE = Itemc4;
 Inst20Quest2description3_HORDE = AQITEM_NECK
 Inst20Quest2ID3_HORDE = "10711"
 
-
+--Quest 3 Horde
+Inst20Quest3Rewardtext_HORDE = AQDiscription_REWARD..WHITE.."1"..AQDiscription_OR..WHITE.."2"
+--ITEM1
+Inst20Quest3ITC1_HORDE = Itemc2 -- 假设坚固的磨刀石为白色品质，可按需调整
+Inst20Quest3description1_HORDE = AQITEM_ITEM	--物品
+Inst20Quest3ID1_HORDE = "7964"
+--ITEM2
+Inst20Quest3ITC2_HORDE = Itemc2 -- 假设坚固的平衡石为白色品质，可按需调整
+Inst20Quest3description2_HORDE = AQITEM_ITEM
+Inst20Quest3ID2_HORDE = "7965"
 
 --------------- INST21 - SM: Cathedral (SM Cath) ---------------
 
@@ -2751,6 +2799,12 @@ Inst21Quest3ITC1 = Itemc3;
 Inst21Quest3description1 = AQITEM_RING
 Inst21Quest3ID1 = "61478"
 
+--Quest 4 Alliance
+Inst21Quest4Rewardtext = AQDiscription_REWARD..WHITE.."1"
+--ITEM1
+Inst21Quest4ITC1 = Itemc2 -- 假设精致秘银护符图鉴为白色品质，可按需调整
+Inst21Quest4description1 = AQITEM_PATTERN	--图样
+Inst21Quest4ID1 = "70139"
 
 --Quest 1 Horde
 Inst21Quest1Rewardtext_HORDE = AQNoReward
@@ -2770,7 +2824,12 @@ Inst21Quest2ITC3_HORDE = Itemc4;
 Inst21Quest2description3_HORDE = AQITEM_NECK
 Inst21Quest2ID3_HORDE = "10711"
 
-
+--Quest 3 Horde
+Inst21Quest3Rewardtext_HORDE = AQDiscription_REWARD..WHITE.."1"
+--ITEM1
+Inst21Quest3ITC1_HORDE = Inst21Quest4ITC1
+Inst21Quest3description1_HORDE = Inst21Quest4description1
+Inst21Quest3ID1_HORDE = Inst21Quest4ID1
 
 --------------- INST22 - SM: Graveyard (SM GY) ---------------
 
@@ -3043,6 +3102,23 @@ Inst24Quest5ITC2_HORDE = Itemc4;
 Inst24Quest5description2_HORDE = AQITEM_SHIELD
 Inst24Quest5ID2_HORDE = "60393"
 
+--Quest 6 Horde
+Inst24Quest6Rewardtext_HORDE = AQDiscription_REWARD..WHITE.."1"..AQDiscription_OR..WHITE.."2"
+--ITEM1
+Inst24Quest6ITC1_HORDE = Itemc4 -- 假设兰纳隆之剑为绿色品质，可按需调整
+Inst24Quest6description1_HORDE = AQITEM_SWORD	--剑
+Inst24Quest6ID1_HORDE = "60392"
+--ITEM2
+Inst24Quest6ITC2_HORDE = Itemc4 -- 假设马塞拉之盾为绿色品质，可按需调整
+Inst24Quest6description2_HORDE = AQITEM_SHIELD	--盾
+Inst24Quest6ID2_HORDE = "60393"
+
+--Quest 7 Horde
+Inst24Quest7Rewardtext_HORDE = AQDiscription_REWARD..WHITE.."1"
+--ITEM1
+Inst24Quest7ITC1_HORDE = Itemc3 -- 假设救赎项链为绿色品质，可按需调整
+Inst24Quest7description1_HORDE = AQITEM_NECK	--颈部
+Inst24Quest7ID1_HORDE = "70225"
 
 --------------- INST25 - Stratholme (Strat) ---------------
 

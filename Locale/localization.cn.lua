@@ -162,7 +162,7 @@ AQITEM_ENCHANT = "附魔"
 --------------- INST1 - Deadmines (DM) ---------------
 Inst1Story = "这里曾经是人类最主要的产金地，希望矿井在部落第一次大战期间席卷暴风城的时候被废弃。现在迪菲亚兄弟会的人占据了那里并将这个黑暗的通道转变成他们的避难所。据说那些盗贼已经劝说了聪明的地精帮助他们在矿井的深处建造一些可怕的东西——但是没有人知道这是真的还是假的。有传言说，死亡矿井的入口在安宁的月溪镇中。"
 Inst1Caption = "死亡矿井"
-Inst1QAA = "9 个任务 2TW" -- 联盟任务数
+Inst1QAA = "10 个任务 3TW" -- 联盟任务数
 Inst1QAH = "3 个任务 3TW" -- 部落任务数
 
 --Quest 1 Alliance
@@ -281,6 +281,19 @@ Inst1Quest9name1 = "工匠腰带"
 Inst1Quest9name2 = "安全绑带"
 Inst1Quest9name3 = "收获魔像的手臂"
 
+--Quest 10 Alliance
+Inst1Quest10 = "(TW)10.关上水龙头"
+Inst1Quest10_Level = "20"
+Inst1Quest10_Attain = "14"
+Inst1Quest10_Prequest = "西部荒野的苦工们->密探吉尔妮->危险的快递"
+Inst1Quest10_Folgequest = "无"
+Inst1Quest10_Location = "剃刀雷吉克（暴风城-军情七处; "..YELLOW.."78,71"..WHITE..")"
+Inst1Quest10_Aim = "潜入西部荒野的死亡矿井并获得维斯的热饮。"
+Inst1Quest10_Note = "任务线起始于暴风城剃刀雷吉克的任务“西部荒野的苦工们”。\n第二步的“密探吉尔妮”在西部荒野"..YELLOW.."68,70"..WHITE.."的一颗树下，注意她是潜行的，要走进才能看到。\n最后到死亡矿井进本左转，新增地区7号位置“赞吉尔实验室”"..YELLOW.."31,28"..WHITE.."击杀“杰里德.维斯”获取“维斯的热饮”，回雷吉克交任务。"
+
+Inst1Quest10name1 = "特工斗篷" -- 70239
+Inst1Quest10name2 = "正直镣铐" -- 70240
+
 --Quest 1 Horde
 Inst1Quest1_HORDE = "(TW)1. 原型机图纸" -- 55005
 Inst1Quest1_HORDE_Level = "18"
@@ -322,8 +335,8 @@ Inst1Quest3name1_HORDE = "涡轮增压无晃动嘶嘶声磁盘" -- 40065
 --------------- INST2 - Wailing Caverns (WC) ---------------
 Inst2Story = "最近一个名叫纳拉雷克斯的暗夜精灵德鲁伊在贫瘠之地中的地下发现了一个错综复杂的洞穴网。这个被称作“哀嚎洞穴”的地方有很多的蒸汽缝隙，所以当蒸气喷射的时候发出的声音就犹如哀嚎一般，其因此而得名。纳拉雷克斯可以利用洞穴中的温泉来恢复贫瘠之地的生态，让这里重新获得生机——但是这样做需要吸收传说中的翡翠梦境的能量。一旦和翡翠梦境相连接，德鲁伊的视线中就变成了一场噩梦。不久之后，哀嚎洞穴开始变化——洞中的水开始腐化——曾经温顺的生物开始变成狂暴，致命的捕食者。据说纳拉雷克斯自己还居住在这个迷宫的最深处，他被翡翠梦境的边缘所困扰着。即使他以前的随从也被他们的主人所经历的噩梦所腐化——他们都变成了邪恶的尖牙德鲁伊。"
 Inst2Caption = "哀嚎洞穴"
-Inst2QAA = "7 个任务 2TW"
-Inst2QAH = "8 个任务 1TW"
+Inst2QAA = "8 个任务 3TW"
+Inst2QAH = "9 个任务 2TW"
 
 --Quest 1 Alliance
 Inst2Quest1 = "1. 变异皮革" --1486
@@ -413,6 +426,18 @@ Inst2Quest7_Folgequest = "无"
 Inst2Quest7name1 = "古老的精灵长袍"
 Inst2Quest7name2 = "雷角"
 
+-- Quest 8 Alliance
+Inst2Quest8 = "(TW)8.杂草丛生"
+Inst2Quest8_Level = "20"
+Inst2Quest8_Attain = "16"
+Inst2Quest8_Prequest = "无"
+Inst2Quest8_Folgequest = "无"
+Inst2Quest8_Location = "桑迪斯·织风（黑海岸奥伯丁; "..YELLOW.."37,40"..WHITE.."）"
+Inst2Quest8_Aim = "奥伯丁的桑迪斯·织风需要哀嚎洞穴中的异常的狂野生长的样本。"
+Inst2Quest8_Note = "“过度生长的样本”在哀嚎洞穴"..YELLOW.."67,82"..WHITE.."附近新增地区“狂野生长”击杀大花怪“异常的狂野生长”掉落。"
+
+Inst2Quest8name1 = "法力药水，3个"	--3827
+Inst2Quest8name2 = "强效治疗药水，3个"	--1710
 
 --Quest 1 Horde (same as Quest 1 Alliance)
 Inst2Quest1_HORDE = Inst2Quest1
@@ -514,6 +539,17 @@ Inst2Quest8_HORDE_Folgequest = "无"
 Inst2Quest8name1_HORDE = "奥术之路法杖" -- 80860
 Inst2Quest8name2_HORDE = "织法者匕首" -- 80861
 
+-- Quest 9 Horde
+Inst2Quest9_HORDE = "(TW)9.与科卡尔的梦对抗"
+Inst2Quest9_HORDE_Level = "23"
+Inst2Quest9_HORDE_Attain = "17"
+Inst2Quest9_HORDE_Prequest = "无"
+Inst2Quest9_HORDE_Folgequest = "无"
+Inst2Quest9_HORDE_Location = "纳尔帕克（贫瘠之地"..YELLOW.."46,36"..WHITE.."，从北方山上下去哀嚎洞穴顶部接任务的洞里）"
+Inst2Quest9_HORDE_Aim = "在哀嚎洞穴中杀死赞达拉·风蹄，并将她的头带回贫瘠之地的纳尔帕克身边。"
+Inst2Quest9_HORDE_Note = "“赞达拉·风蹄”在哀嚎洞穴副本内新增区域11号位置。"
+
+Inst2Quest9name1_HORDE = "科卡尔披风"	--70224
 
 --------------- INST3 - Ragefire Chasm (RFC) ---------------
 Inst3Story = "怒焰裂谷是一个错综复杂的火焰洞穴，它位于兽人的新都城奥格瑞玛中。最近，有传言说一批崇拜恶魔阴影教的信徒占据了怒焰裂谷。这个被称为火刃的组织对杜隆塔尔的安全。许多人认为兽人的酋长萨尔已经意识到了火刃的存在并不打算摧毁他们，因为萨尔希望能够将他引到阴影议会那里。不管怎么样，黑暗的力量从怒焰裂谷散发出来，它们可能毁了兽人所有的一切。"
@@ -3948,8 +3984,8 @@ Inst16Quest3name1_HORDE = Inst16Quest3name1
 --------------- INST17 - Razorfen Downs (RFD) ---------------
 Inst17Story = "剃刀高地和剃刀沼泽一样由巨大的藤蔓组成，剃刀高地是野猪人的传统都城。在那错综复杂的荆棘迷宫中居住着大群忠诚的野猪人军队以及他们的高等牧师——亡首部族。然而最近，一股阴影力量笼罩了这个原始的洞穴。亡灵天灾的人在巫妖寒冰之王亚门纳尔的带领下控制了野猪部族并将荆棘迷宫变成了亡灵力量的堡垒。现在野猪人正奋力战斗来重新夺回他们的城市，并阻止亚门纳尔继续控制贫瘠之地。"
 Inst17Caption = "剃刀高地"
-Inst17QAA = "3 个任务"
-Inst17QAH = "5 个任务 1TW"
+Inst17QAA = "4 个任务 1TW"
+Inst17QAH = "6 个任务 2TW"
 
 --Quest 1 Alliance
 Inst17Quest1 = "1. 邪恶之地" -- 6626
@@ -3987,6 +4023,17 @@ Inst17Quest3_Folgequest = "无"
 Inst17Quest3name1 = "征服者之剑"
 Inst17Quest3name2 = "琥珀之光"
 
+-- Quest 4 Alliance
+Inst17Quest4 = "(TW)4.他们正在吃它！"
+Inst17Quest4_Level = "40"
+Inst17Quest4_Attain = "36"
+Inst17Quest4_Prequest = "现在都是食人魔"
+Inst17Quest4_Folgequest = "腥臭的实践->更多脆弱的侏儒"
+Inst17Quest4_Location = "萨哈斯（剃刀高地副本内2号位置; "..YELLOW.."84,24"..WHITE.."）"
+Inst17Quest4_Aim = "在剃刀高地寻找特拉克西斯失踪的保镖。"
+Inst17Quest4_Note = "任务线第一步需要珠宝加工技能200点，从棘齿城"..YELLOW.."62,38"..WHITE.."特拉克西斯接取“现在都是食人魔”。"
+
+Inst17Quest4name1 = "图鉴：华丽秘银手镯"	--70181
 
 --Quest 1 Horde (same as Quest 1 Alliance)
 Inst17Quest1_HORDE = Inst17Quest1
@@ -4014,7 +4061,7 @@ Inst17Quest2name2_HORDE = "钉枪"
 Inst17Quest2name3_HORDE = "狂热长袍"
 
 --Quest 3 Horde (same as Quest 2 Alliance)
-Inst17Quest3_HORDE = "3. Extinguishing the Idol"
+Inst17Quest3_HORDE = "3. 封印神像"
 Inst17Quest3_HORDE_Level = Inst17Quest2_Level
 Inst17Quest3_HORDE_Attain = Inst17Quest2_Attain
 Inst17Quest3_HORDE_Aim = Inst17Quest2_Aim
@@ -4052,7 +4099,17 @@ Inst17Quest5name1_HORDE = "加拉隆之力" -- 61660
 Inst17Quest5name2_HORDE = "瓦里玛萨斯之诡" -- 61661
 Inst17Quest5name3_HORDE = "静寂护符" -- 61662
 
+-- Quest 6 Horde
+Inst17Quest6_HORDE = "(TW)6.他们正在吃它！"
+Inst17Quest6_HORDE_Level = Inst17Quest4_Level
+Inst17Quest6_HORDE_Attain = Inst17Quest4_Attain
+Inst17Quest6_HORDE_Prequest = Inst17Quest4_Prequest
+Inst17Quest6_HORDE_Folgequest = Inst17Quest4_Folgequest
+Inst17Quest6_HORDE_Location = Inst17Quest4_Location
+Inst17Quest6_HORDE_Aim = Inst17Quest4_Aim
+Inst17Quest6_HORDE_Note = Inst17Quest4_Note
 
+Inst17Quest6name1_HORDE = Inst17Quest4name1
 
 --------------- INST18 - Razorfen Kraul (RFK) ---------------
 Inst18Story = "在一万年前的古代战争中，万能的半神阿迦玛甘和燃烧军团进行了激战。虽然这头巨大的猪在战斗中倒下了，但是他的努力最终拯救了艾泽拉斯大陆免遭涂炭。虽然已经过去了很久，但是在它血液流淌的地方巨大的荆棘藤蔓生长出来。那些被认为是半神后代的野猪人占领了这些地区并将其奉为圣地。这些荆棘地的中心被称为剃刀岭。而巨大的剃刀沼泽则被一个老丑婆卡尔加·刺肋所占据。在她的统治下，信奉萨满教的野猪人和别的部族以及部落为敌。有些人甚至猜测卡尔加还在和亡灵天灾的有来往——她想要联合亡灵天灾来达到一些不可告人的险恶目的。"
@@ -4301,7 +4358,7 @@ Inst19Quest5_HORDE_Folgequest = Inst19Quest3_Folgequest
 Inst20Story = Inst19Story
 Inst20Caption = "血色修道院（军械库）"
 Inst20QAA = "1 个任务"
-Inst20QAH = "2 个任务"
+Inst20QAH = "3 个任务 1TW"
 
 --Quest 1 Alliance (same as Quest 1 Alliance INST19)
 Inst20Quest1 = Inst19Quest1
@@ -4344,13 +4401,24 @@ Inst20Quest2name1_HORDE = Inst19Quest2name1_HORDE
 Inst20Quest2name2_HORDE = Inst19Quest2name2_HORDE
 Inst20Quest2name3_HORDE = Inst19Quest2name3_HORDE
 
+-- Quest 3 Horde
+Inst20Quest3_HORDE = "(TW)3.往日之钢"
+Inst20Quest3_HORDE_Level = "39"
+Inst20Quest3_HORDE_Attain = "33"
+Inst20Quest3_HORDE_Prequest = "无"
+Inst20Quest3_HORDE_Folgequest = "无"
+Inst20Quest3_HORDE_Location = "巴兹尔·弗莱伊（幽暗城; "..YELLOW.."60,29"..WHITE.."）"
+Inst20Quest3_HORDE_Aim = "杀死军械库军需官达格海姆并将日记还给幽暗城的巴兹尔·弗莱伊。"
+Inst20Quest3_HORDE_Note = "“军需官达格海姆”是血色军械库"..YELLOW.."56,38"..WHITE.."新增区域“仓库”2号位置的BOSS。"
 
+Inst20Quest3name1_HORDE = "坚固的磨刀石，3个"	--7964
+Inst20Quest3name2_HORDE = "坚固的平衡石，3个"	--7965
 
 --------------- INST21 - SM: Cathedral (SM Cath) ---------------
 Inst21Story = Inst19Story
 Inst21Caption = "血色修道院（大教堂）"
-Inst21QAA = "3 个任务 2TW"
-Inst21QAH = "2 个任务"
+Inst21QAA = "4 个任务 3TW"
+Inst21QAH = "3 个任务 1TW"
 
 --Quest 1 Alliance (same as Quest 1 Alliance INST19)
 Inst21Quest1 = Inst19Quest1
@@ -4393,6 +4461,17 @@ Inst21Quest3_Folgequest = "无"
 --
 Inst21Quest3name1 = "神圣契约之戒" --61478
 
+-- Quest 4 Alliance
+Inst21Quest4 = "(TW)4.金钱是地精的命（珠宝任务）"
+Inst21Quest4_Level = "40"
+Inst21Quest4_Attain = "32"
+Inst21Quest4_Prequest = "棘齿城失踪案->一个朋友的朋友？"
+Inst21Quest4_Folgequest = "无"
+Inst21Quest4_Location = "塔克纳兹·铜火（杜隆塔尔-怒水港; "..YELLOW.."57,26"..WHITE.."）"
+Inst21Quest4_Aim = "塔克纳兹需要一颗血色修道院的巨大红宝石和一条金项链。"
+Inst21Quest4_Note = "任务线第一步需要珠宝加工技能200点。此副本任务需要两件东西，任务物品“巨型血色红宝石”为血色教堂最终BOSS“大检察官怀特迈恩”掉落。“闪光的金项链”为珠宝制品，装绑，可在拍卖行买到，也可自行制作。"
+
+Inst21Quest4name1 = "图鉴：精致秘银护符"	--70139
 
 --Quest 1 Horde (same as Quest 1 Horde INST19)
 Inst21Quest1_HORDE = Inst19Quest1_HORDE
@@ -4419,7 +4498,17 @@ Inst21Quest2name1_HORDE = Inst19Quest2name1_HORDE
 Inst21Quest2name2_HORDE = Inst19Quest2name2_HORDE
 Inst21Quest2name3_HORDE = Inst19Quest2name3_HORDE
 
+-- Quest 3 Horde
+Inst21Quest3_HORDE = "(TW)3.金钱是地精的命（珠宝任务）"
+Inst21Quest3_HORDE_Level = Inst21Quest4_Level
+Inst21Quest3_HORDE_Attain = Inst21Quest4_Attain
+Inst21Quest3_HORDE_Prequest = Inst21Quest4_Prequest
+Inst21Quest3_HORDE_Folgequest = Inst21Quest4_Folgequest
+Inst21Quest3_HORDE_Location = Inst21Quest4_Location
+Inst21Quest3_HORDE_Aim = Inst21Quest4_Aim
+Inst21Quest3_HORDE_Note = Inst21Quest4_Note
 
+Inst21Quest3name1_HORDE = Inst21Quest4name1
 
 --------------- INST22 - SM: Graveyard (SM GY) ---------------
 Inst22Story = Inst19Story
@@ -4764,7 +4853,7 @@ Inst23Quest12name1_HORDE = Inst23Quest12name1
 Inst24Story = "在第三次大战中，奇灵托的法师和亡灵天灾进行了殊死的战斗。当达拉然的法师最终在战斗中战死之后，他们的意志转移到了复苏的亡灵天灾身上，然后重生了。由于对于缓慢的进展感到失望（并且对他的手下的建议不予理会）大法师阿鲁高选择召唤异次沅空间的生物来壮大达拉然日渐消失的力量。阿鲁高的召唤将贪婪的狼人带到了艾泽拉斯大陆。这些狂暴的狼型生物不仅屠杀了亡灵天灾的人，而且迅速将目标转向那些法师。那些狼人开始围攻席瓦莱恩男爵的城堡。这座位于焚木村的城堡不久之后变成了黑暗势力的聚集地并从此荒废。因为对于自己罪过的愧疚，阿鲁高将那些狼人当作自己的孩子并隐居在“影牙城堡”中。据说他还住在那里，被他巨大的宠物芬鲁斯所保护着，另外，在城堡中还徘徊着瓦莱恩男爵的那些复仇的幽灵。"
 Inst24Caption = "影牙城堡"
 Inst24QAA = "4 个任务 2TW"
-Inst24QAH = "5 个任务 1TW"
+Inst24QAH = "7 个任务 3TW"
 
 --Quest 1 Alliance
 Inst24Quest1 = "1. 正义试炼（圣骑士任务）" -- 1654
@@ -4879,6 +4968,30 @@ Inst24Quest5_HORDE_Folgequest = "达尔索的遗产" --40282
 Inst24Quest5name1_HORDE = "拉内隆之剑" --60392
 Inst24Quest5name2_HORDE = "玛瑟拉之盾" --60393
 
+-- Quest 6 Horde
+Inst24Quest6_HORDE = "(TW)6.虎口拔牙"
+Inst24Quest6_HORDE_Level = "25"
+Inst24Quest6_HORDE_Attain = "15"
+Inst24Quest6_HORDE_Prequest = "达尔索斯遗产->不同类型的锁->魔法之道"
+Inst24Quest6_HORDE_Folgequest = "达尔索斯遗产"
+Inst24Quest6_HORDE_Location = "皮尔斯·沙克尔顿（幽暗城-魔法区; "..YELLOW.."85,14"..WHITE.."）"
+Inst24Quest6_HORDE_Aim = "在影牙城堡中找到迈雷纳斯的财产，并将其交给幽暗城中的皮尔斯·沙克尔顿。"
+Inst24Quest6_HORDE_Note = "任务线起始于提瑞斯法林地-格伦郡"..YELLOW.."21,69"..WHITE.."纳格拉斯公爵的任务“达尔索斯遗产”，副本中的任务目标为影牙城堡10号BOSS吞噬者芬鲁斯旁边地上的箱子获得“迈雷纳斯的财产”，另外一个任务“乌尔之书”旁边。"
+
+Inst24Quest6name1_HORDE = "兰纳隆之剑"	--60392
+Inst24Quest6name2_HORDE = "马塞拉之盾"	--60393
+
+-- Quest 7 Horde
+Inst24Quest7_HORDE = "(TW)7.主教末路"
+Inst24Quest7_HORDE_Level = "22"
+Inst24Quest7_HORDE_Attain = "16"
+Inst24Quest7_HORDE_Prequest = "守护不死者->帮助布莱特科普夫->"
+Inst24Quest7_HORDE_Folgequest = "无"
+Inst24Quest7_HORDE_Location = "布莱特科普夫神父（提瑞斯法林地-格伦郡; "..YELLOW.."21,69"..WHITE.."）"
+Inst24Quest7_HORDE_Aim = "杀死艾隆迈恩主教并向格伦郡的布莱特科普夫神父报告。"
+Inst24Quest7_HORDE_Note = "“艾隆迈恩主教”是影牙城堡新增区域13号位置的BOSS。"
+
+Inst24Quest7name1_HORDE = "救赎项链"	--70225
 
 --------------- INST25 - Stratholme (Strat) ---------------
 Inst25Story = "斯坦索姆曾经是洛丹伦北部一颗璀璨的明珠，但是就是在这座城市阿尔萨斯王子背叛了他的导师乌瑟尔，并屠杀了数百个被认为感染了可怕瘟疫的臣民。阿尔萨斯不久之后就向巫妖王臣服。这个破碎的城市也被巫妖克尔苏拉德领导的亡灵天灾所占据。而一直由大十字军战士达索汉领导的血色十字军分遣队也占据了这个城市的一部分。这两方力量在城市中进行着激烈的战斗。而那些勇敢（亦或是愚蠢的）的冒险者在进入斯坦索姆之后将不得不面对两方的力量。据说整座城市由三座大型的通灵塔以及无数强大的亡灵巫师，女妖和憎恶所守卫着。据报告，邪恶的死亡骑士乘坐在一匹骷髅战马——他会将怒火倾泻在任何胆敢进入亡灵天灾领域的人。"
